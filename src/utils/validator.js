@@ -58,7 +58,31 @@ export const EXPIRED_PAGE_PATTERNS = [
   /expired\s+job/i,
 ];
 
-const VERIFY_TTL_MS = 30 * 60 * 1000; // Re-verify each active link every 30 minutes
+const VERIFY_TTL_MS = 6 * 60 * 60 * 1000; // Re-verify polite domains at most once every 6 hours
+
+// Domains whose robots.txt / anti-bot systems restrict automated scraping — never probe them automatically
+export const SCRAPE_RESTRICTED_DOMAINS = [
+  'linkedin.com',
+  'internshala.com',
+  'unstop.com',
+  'naukri.com',
+  'indeed.com',
+  'glassdoor.com',
+  'glassdoor.co.in',
+  'foundit.in',
+  'shine.com',
+  'jooble.org',
+  'timesjobs.com',
+];
+
+export function isScrapeRestrictedUrl(rawUrl = '') {
+  try {
+    const host = new URL(rawUrl).hostname.toLowerCase();
+    return SCRAPE_RESTRICTED_DOMAINS.some((d) => host === d || host.endsWith(`.${d}`));
+  } catch {
+    return false;
+  }
+}
 
 export function isExpiredPageText(htmlOrText = '') {
   const raw = String(htmlOrText);
@@ -90,34 +114,9 @@ export async function checkJobUrlLive(applyUrl) {
     return { alive: false, reason: 'Invalid URL' };
   }
 
-  // Fast structured expiry check for Unstop URLs via public competition API
-  const unstopIdMatch = applyUrl.match(/unstop\.com\/(?:jobs|internships)\/[^?#]*-(\d+)(?:\/|\?|$)/i);
-  if (unstopIdMatch) {
-    try {
-      const apiRes = await fetch(`https://unstop.com/api/public/competition/${unstopIdMatch[1]}`, {
-        headers: { ...HTTP_HEADERS, Accept: 'application/json' },
-        signal: AbortSignal.timeout(10000),
-      });
-      if (apiRes.status === 404 || apiRes.status === 410) {
-        return { alive: false, reason: `Unstop HTTP ${apiRes.status}` };
-      }
-      if (apiRes.ok) {
-        const json = await apiRes.json();
-        const comp = json?.data?.competition;
-        if (comp) {
-          if (comp.closed_at || String(comp.status || '').toLowerCase() === 'closed') {
-            return { alive: false, reason: 'Unstop opportunity is closed' };
-          }
-          const endDt = comp.regnRequirements?.end_regn_dt;
-          if (endDt && !Number.isNaN(Date.parse(endDt)) && Date.parse(endDt) < Date.now()) {
-            return { alive: false, reason: 'Unstop registration deadline passed' };
-          }
-          return { alive: true };
-        }
-      }
-    } catch {
-      // Fall through to standard page check
-    }
+  // Respect robots.txt & prevent IP rate-limiting on scraping-restricted job boards
+  if (isScrapeRestrictedUrl(applyUrl)) {
+    return { alive: true, skipped: true, reason: 'Skipped automated probe (robots.txt / anti-ban protection)' };
   }
 
   try {
@@ -163,7 +162,7 @@ export async function filterExpiredJobs(
   const removed = [];
 
   const queue = [...jobs];
-  const CONCURRENCY = 5;
+  const CONCURRENCY = 2;
 
   async function worker() {
     while (queue.length > 0) {

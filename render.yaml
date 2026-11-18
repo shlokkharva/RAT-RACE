@@ -7,7 +7,9 @@ services:
     startCommand: npm run serve
     envVars:
       - key: AUTO_FETCH_INTERVAL_SECONDS
-        value: '60'
+        value: '1800'
+      - key: ALLOW_HTML_SCRAPING
+        value: 'false'
       - key: INCLUDE_REMOTE_INDIA
         value: 'true'
       - key: GMAIL_USER

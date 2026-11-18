@@ -25,7 +25,13 @@ import {
   hasPhysicalAddressSignal,
   isParkedDomainHtml,
 } from '../src/utils/glassdoor.js';
-import { filterExpiredJobs, isExpiredPageText, markJobExpired } from '../src/utils/validator.js';
+import {
+  checkJobUrlLive,
+  filterExpiredJobs,
+  isExpiredPageText,
+  isScrapeRestrictedUrl,
+  markJobExpired,
+} from '../src/utils/validator.js';
 
 test('classifyRoles accurately tags Data Analyst, UI/UX, MERN, Full-Stack, and Python', () => {
   assert.ok(classifyRoles('Junior Data Analyst (Power BI & SQL)').includes('data-analyst'));
@@ -346,4 +352,15 @@ test('processJobs caps remote listings to max 2 per company while keeping Vadoda
   const vadodaraOnes = processed.filter((j) => j.company === 'Trevita Infotech');
   assert.equal(remoteOnes.length, 2);
   assert.equal(vadodaraOnes.length, 3);
+});
+
+test('isScrapeRestrictedUrl & checkJobUrlLive skip scraping-restricted portals to protect user IP', async () => {
+  assert.equal(isScrapeRestrictedUrl('https://www.linkedin.com/jobs/view/123456'), true);
+  assert.equal(isScrapeRestrictedUrl('https://internshala.com/internship/detail/test'), true);
+  assert.equal(isScrapeRestrictedUrl('https://unstop.com/internships/test-1234'), true);
+  assert.equal(isScrapeRestrictedUrl('https://www.trevitainfotech.com/career'), false);
+
+  const probe = await checkJobUrlLive('https://www.linkedin.com/jobs/view/123456');
+  assert.equal(probe.alive, true);
+  assert.equal(probe.skipped, true);
 });

@@ -22,7 +22,7 @@ const PORT = Number(process.env.PORT) || 4173;
 const HOST = process.env.HOST || (process.env.RENDER ? '0.0.0.0' : '127.0.0.1');
 const DOCS_DIR = path.resolve(process.cwd(), 'docs');
 
-// Dynamic auto-fetch interval in seconds (default: every 60 seconds; set to 0 to disable)
+// Dynamic auto-fetch interval in seconds (default: every 30 minutes to protect your IP; set to 0 for manual only)
 const AUTO_FETCH_INTERVAL_SECONDS = (() => {
   if (process.env.AUTO_FETCH_INTERVAL_SECONDS !== undefined) {
     return Math.max(0, Number(process.env.AUTO_FETCH_INTERVAL_SECONDS) || 0);
@@ -30,10 +30,10 @@ const AUTO_FETCH_INTERVAL_SECONDS = (() => {
   if (process.env.AUTO_FETCH_INTERVAL_MINUTES !== undefined) {
     return Math.max(0, (Number(process.env.AUTO_FETCH_INTERVAL_MINUTES) || 0) * 60);
   }
-  return 60;
+  return 1800;
 })();
 
-const RATE_LIMIT_COOLDOWN_MS = 5 * 60 * 1000;
+const RATE_LIMIT_COOLDOWN_MS = 30 * 60 * 1000;
 
 const MIME_TYPES = {
   '.html': 'text/html; charset=utf-8',

@@ -29,28 +29,38 @@ export async function runJobFetch({
 } = {}) {
   const includeRemoteIndia =
     String(process.env.INCLUDE_REMOTE_INDIA ?? 'true').toLowerCase() !== 'false';
+  const allowHtmlScraping =
+    String(process.env.ALLOW_HTML_SCRAPING ?? 'false').toLowerCase() === 'true';
   const maxAgeDays = Number(process.env.MAX_JOB_AGE_DAYS) || 14;
 
   console.log('===============================================================');
   console.log(' Rat Racer BDQ — Vadodara & Remote IT Fresher Job Fetcher');
   console.log(' Roles: Data Analyst | UI/UX | MERN Stack | Full-Stack | Python');
   console.log(` Scope: Vadodara${includeRemoteIndia ? ' + Remote (India/Worldwide)' : ' Only'}`);
-  console.log(` Mode: ${isDryRun ? 'DRY RUN (no file write / no email)' : 'LIVE'}`);
+  console.log(` Mode: ${isDryRun ? 'DRY RUN (no file write / no email)' : 'LIVE'} | ${allowHtmlScraping ? 'API + Scraping' : 'SAFE API-ONLY (IP-Ban Protected)'}`);
   console.log('===============================================================');
 
+  // Official public APIs & polite direct company career portals (zero IP-ban risk)
   const fetcherEntries = [
     { name: 'Vadodara Company Careers', fn: () => fetchVadodaraCompanyCareers() },
-    { name: 'LinkedIn', fn: () => fetchLinkedInJobs({ includeRemoteIndia }) },
-    { name: 'Internshala', fn: () => fetchInternshalaJobs({ includeRemoteIndia }) },
-    { name: 'Unstop', fn: () => fetchUnstopJobs({ includeRemoteIndia }) },
-    { name: 'TimesJobs', fn: () => fetchTimesJobs({ includeRemoteIndia }) },
+    { name: 'Google Jobs (JSearch)', fn: () => fetchJSearchJobs({ includeRemoteIndia }) },
     { name: 'Himalayas', fn: () => fetchHimalayasJobs({ includeRemoteIndia }) },
     { name: 'Jobicy', fn: () => fetchJobicyJobs({ includeRemoteIndia }) },
     { name: 'Remotive (Remote)', fn: () => fetchRemotiveJobs({ includeRemoteIndia }) },
     { name: 'Adzuna', fn: () => fetchAdzunaJobs() },
-    { name: 'Google Jobs (JSearch)', fn: () => fetchJSearchJobs({ includeRemoteIndia }) },
     { name: 'Jooble', fn: () => fetchJoobleJobs() },
   ];
+
+  // Scraping-restricted portals (LinkedIn/Internshala/Unstop/TimesJobs) are OFF by default
+  // to respect robots.txt and protect your IP from rate limits or bans.
+  if (allowHtmlScraping) {
+    fetcherEntries.push(
+      { name: 'LinkedIn', fn: () => fetchLinkedInJobs({ includeRemoteIndia }) },
+      { name: 'Internshala', fn: () => fetchInternshalaJobs({ includeRemoteIndia }) },
+      { name: 'Unstop', fn: () => fetchUnstopJobs({ includeRemoteIndia }) },
+      { name: 'TimesJobs', fn: () => fetchTimesJobs({ includeRemoteIndia }) }
+    );
+  }
 
   const results = await Promise.all(
     fetcherEntries.map(({ name, fn }) => {

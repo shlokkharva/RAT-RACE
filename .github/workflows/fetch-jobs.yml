@@ -36,6 +36,7 @@ jobs:
           RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
           JOOBLE_API_KEY: ${{ secrets.JOOBLE_API_KEY }}
           INCLUDE_REMOTE_INDIA: ${{ vars.INCLUDE_REMOTE_INDIA || 'true' }}
+          ALLOW_HTML_SCRAPING: ${{ vars.ALLOW_HTML_SCRAPING || 'false' }}
         run: npm run fetch
 
       - name: Commit updated dashboard data if changed
