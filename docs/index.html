@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="description"
+    content="Rat Racer BDQ — Live Vadodara & Remote IT Fresher Jobs Dashboard with optional Gmail alerts for Data Analyst, UI/UX, MERN Stack, Full-Stack & Python roles." />
+  <title>Rat Racer BDQ — Vadodara &amp; Remote IT Fresher Jobs</title>
+  <link rel="icon" type="image/svg+xml"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0%25' stop-color='%232563eb'/%3E%3Cstop offset='100%25' stop-color='%234f46e5'/%3E%3C/linearGradient%3E%3C/defs%3E%3Rect width='64' height='64' rx='16' fill='url(%23g)'/%3E%3Ctext x='50%25' y='54%25' dominant-baseline='middle' text-anchor='middle' fill='white' font-family='system-ui,sans-serif' font-size='28' font-weight='800'%3ERR%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <!-- Optional Gmail Alerts Modal -->
+  <div id="gmail-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-card">
+      <div class="modal-header-row">
+        <div class="modal-badge">Optional &bull; Gmail Alerts</div>
+        <button id="modal-close-x" class="modal-close-btn" type="button" aria-label="Close modal">✕</button>
+      </div>
+      <h2 id="modal-title">Get Vadodara &amp; Remote IT Job Updates</h2>
+      <p class="modal-desc">
+        Completely optional — turn this on only if you want automatic Gmail alerts with direct <strong>Apply
+          Links</strong> whenever a new fresher or internship IT role is posted.
+      </p>
+
+      <form id="gmail-form" class="gmail-form" novalidate>
+        <div class="field-group">
+          <label for="sub-email">Your Gmail Address <span class="req">*</span></label>
+          <input id="sub-email" type="email" placeholder="yourname@gmail.com" autocomplete="email" required />
+        </div>
+
+        <div class="field-group">
+          <label for="sub-name">Your Name <span class="opt">(optional)</span></label>
+          <input id="sub-name" type="text" placeholder="e.g., Shlok" autocomplete="name" maxlength="80" />
+        </div>
+
+        <div class="field-group">
+          <label>Select IT Roles You Want Alerts For</label>
+          <div id="modal-role-checks" class="role-check-grid"></div>
+        </div>
+
+        <div class="field-group">
+          <label for="sub-workmode">Location Preference</label>
+          <select id="sub-workmode" class="modal-select">
+            <option value="all">Vadodara + Remote (Recommended)</option>
+            <option value="vadodara">Vadodara Only</option>
+            <option value="remote">Remote / Work From Home Only</option>
+          </select>
+        </div>
+
+        <label class="optin-toggle-box">
+          <input id="sub-active-checkbox" type="checkbox" checked />
+          <span>Yes, send me automatic Gmail updates whenever new matching Vadodara or Remote jobs are posted</span>
+        </label>
+
+        <div id="modal-feedback" class="modal-feedback hidden" role="alert"></div>
+
+        <button id="sub-submit-btn" class="primary-btn full-width" type="submit">
+          Save Gmail Alert Preferences
+        </button>
+
+        <div class="modal-footer-actions">
+          <button id="modal-skip-btn" class="ghost-link" type="button">
+            Not now — just browse dashboard
+          </button>
+          <button id="modal-unsub-btn" class="danger-link hidden" type="button">
+            Remove my Gmail completely
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Toast Banner -->
+  <div id="toast-banner" class="toast-banner hidden" role="status" aria-live="polite"></div>
+
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-logo" aria-hidden="true">RR</div>
+        <div>
+          <h1>Rat Racer BDQ <span class="city-badge">Vadodara &amp; Remote</span></h1>
+          <p class="subtitle">Live IT Fresher Job Tracker &bull; Data Analyst, UI/UX, MERN, Full-Stack &amp; Python</p>
+        </div>
+      </div>
+
+      <div class="topbar-actions">
+        <a href="#vadodara-directory" class="outline-btn nav-jump-link">
+          🏢 <span id="nav-companies-count">111</span> Vadodara IT Companies
+        </a>
+        <div id="live-sync-pill" class="live-sync-pill" title="Automatic 1-minute live job syncing">
+          <span id="live-dot" class="live-dot" aria-hidden="true"></span>
+          <span id="live-sync-text">Auto-sync: 60s</span>
+        </div>
+        <button id="refresh-now-btn" class="outline-btn" type="button" title="Scan for new jobs right now">
+          ↻ Refresh Now
+        </button>
+        <div id="alert-status-bar" class="alert-status-bar">
+          <button id="open-gmail-modal-btn" class="alert-cta-btn" type="button">
+            ✉️ Gmail Alerts (Optional)
+          </button>
+        </div>
+        <span id="last-updated-pill" class="meta-pill">Last scan: Checking...</span>
+      </div>
+    </header>
+
+    <!-- Optional Non-Blocking Gmail Opt-In Banner -->
+    <section id="optin-banner" class="optin-banner hidden" aria-label="Optional Gmail job alerts">
+      <div class="optin-banner-text">
+        <strong>Want new Vadodara &amp; Remote IT fresher jobs sent to your Gmail?</strong>
+        <span>Optional — opt in only if you want automatic email alerts with direct apply links.</span>
+      </div>
+      <div class="optin-banner-actions">
+        <button id="banner-enable-btn" class="secondary-btn" type="button">
+          ✉️ Enable Gmail Alerts
+        </button>
+        <button id="banner-dismiss-btn" class="outline-btn" type="button">
+          No thanks
+        </button>
+      </div>
+    </section>
+
+    <!-- Active / Paused Subscriber Strip -->
+    <section id="subscriber-strip" class="subscriber-strip hidden" aria-label="Email alert subscription">
+      <div class="sub-strip-info">
+        <span id="sub-dot" class="sub-dot" aria-hidden="true"></span>
+        <span>
+          <span id="sub-strip-prefix">Email updates ON for</span>
+          <strong id="sub-strip-email"></strong>
+          <span id="sub-strip-roles" class="sub-strip-roles"></span>
+        </span>
+      </div>
+      <div class="sub-strip-actions">
+        <button id="send-now-btn" class="secondary-btn" type="button">
+          📩 Email Matching Jobs Now
+        </button>
+        <button id="toggle-updates-btn" class="outline-btn" type="button">
+          Pause Updates
+        </button>
+        <button id="edit-sub-btn" class="outline-btn" type="button">
+          Edit Gmail / Roles
+        </button>
+      </div>
+    </section>
+
+    <!-- Clickable Stats Bar (acts as quick filters too) -->
+    <section class="stats-grid" aria-label="Job statistics and quick filters">
+      <button class="stat-card" data-stat-filter="all" type="button" title="Show all active jobs">
+        <span class="stat-label">Total Active Jobs</span>
+        <strong id="stat-total" class="stat-value">0</strong>
+      </button>
+      <button class="stat-card accent" data-stat-filter="vadodara" type="button" title="Filter Vadodara jobs">
+        <span class="stat-label">📍 Vadodara Jobs</span>
+        <strong id="stat-vadodara" class="stat-value">0</strong>
+      </button>
+      <button class="stat-card remote" data-stat-filter="remote" type="button" title="Filter Remote jobs">
+        <span class="stat-label">🌍 Remote / WFH</span>
+        <strong id="stat-remote" class="stat-value">0</strong>
+      </button>
+      <button class="stat-card" data-stat-filter="saved" type="button" title="Filter Saved jobs">
+        <span class="stat-label">★ Saved</span>
+        <strong id="stat-saved" class="stat-value">0</strong>
+      </button>
+      <button class="stat-card success" data-stat-filter="applied" type="button" title="Filter Applied jobs">
+        <span class="stat-label">✓ Applied</span>
+        <strong id="stat-applied" class="stat-value">0</strong>
+      </button>
+    </section>
+
+    <!-- Filter & Search Controls -->
+    <section class="controls-panel" aria-label="Filters and search">
+      <div class="controls-top-row">
+        <div id="category-tabs" class="category-tabs" role="tablist" aria-label="Filter by IT role"></div>
+        <div id="workmode-pills" class="workmode-pills" role="group" aria-label="Filter by work mode">
+          <button class="mode-pill active" data-mode="all" type="button">All Locations</button>
+          <button class="mode-pill" data-mode="vadodara" type="button">📍 Vadodara</button>
+          <button class="mode-pill" data-mode="remote" type="button">🌍 Remote Only</button>
+        </div>
+      </div>
+
+      <div class="filter-row">
+        <div class="search-box">
+          <span class="search-icon" aria-hidden="true">🔍</span>
+          <input id="search-input" type="text"
+            placeholder="Search title, company, React, Python, SQL, Figma... (press /)" autocomplete="off"
+            aria-label="Search jobs" />
+          <button id="search-clear-btn" class="search-clear-btn hidden" type="button"
+            aria-label="Clear search">✕</button>
+        </div>
+        <select id="type-filter" aria-label="Filter by job type">
+          <option value="all">All Types</option>
+          <option value="Full-Time Fresher">Full-Time Fresher</option>
+          <option value="Internship">Internship / Trainee</option>
+        </select>
+        <select id="source-filter" aria-label="Filter by source">
+          <option value="all">All Sources</option>
+        </select>
+        <select id="status-filter" aria-label="Filter by application status">
+          <option value="active">Active (Hide Dismissed)</option>
+          <option value="new24">New Last 24h</option>
+          <option value="saved">Saved Only</option>
+          <option value="applied">Applied Only</option>
+          <option value="all">Show All (Including Hidden)</option>
+        </select>
+        <select id="sort-select" aria-label="Sort jobs">
+          <option value="newest">Newest First</option>
+          <option value="score">Best Fresher Match</option>
+        </select>
+      </div>
+
+      <div id="sources-health" class="sources-health"></div>
+    </section>
+
+    <main>
+      <div class="results-bar">
+        <span id="results-count">Loading live jobs...</span>
+        <button id="reset-filters-btn" class="text-btn hidden" type="button">Reset all filters</button>
+      </div>
+
+      <!-- Loading Skeletons -->
+      <div id="loading-skeleton" class="jobs-grid" aria-hidden="true">
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+      </div>
+
+      <div id="jobs-grid" class="jobs-grid"></div>
+
+      <div id="load-more-wrap" class="load-more-wrap hidden">
+        <button id="load-more-btn" class="outline-btn load-more-btn" type="button">
+          Show More Jobs
+        </button>
+      </div>
+
+      <div id="empty-state" class="empty-state hidden">
+        <div class="empty-icon">🔍</div>
+        <h2 id="empty-title">No matching jobs yet</h2>
+        <p id="empty-desc">
+          Click <strong>↻ Refresh Now</strong> or run <code>npm run fetch</code> to load live Vadodara &amp; Remote IT
+          fresher listings.
+        </p>
+        <button id="empty-reset-btn" class="secondary-btn hidden" type="button" style="margin-top:16px;">
+          Reset All Filters
+        </button>
+      </div>
+    </main>
+
+    <!-- Complete Vadodara IT Companies Directory Section -->
+    <section id="vadodara-directory" class="directory-section" aria-label="Complete Vadodara IT Companies Directory">
+      <div class="section-header">
+        <div class="directory-title-row">
+          <h2>Complete Vadodara IT Companies Directory</h2>
+          <span id="directory-total-badge" class="city-badge">111 Companies</span>
+        </div>
+        <p>
+          All MNCs, mid-size IT firms, and local Vadodara startups with their Vadodara area/address, tech stacks,
+          fresher roles, careers portals, and Glassdoor reviews.
+        </p>
+      </div>
+
+      <div class="directory-controls">
+        <div class="search-box directory-search">
+          <span class="search-icon" aria-hidden="true">🔍</span>
+          <input id="company-search-input" type="text"
+            placeholder="Search company name, area (Alkapuri, Gotri, Manjalpur, Waghodia), or stack (Python, MERN, Data, UI/UX)..."
+            autocomplete="off" aria-label="Search Vadodara IT companies" />
+        </div>
+        <select id="company-area-filter" class="directory-area-select" aria-label="Filter companies by Vadodara area">
+          <option value="all">All Vadodara Areas</option>
+          <option value="alkapuri">Alkapuri / Race Course / Jetalpur</option>
+          <option value="gotri">Gotri / Sevasi</option>
+          <option value="vasna">Vasna-Bhayli</option>
+          <option value="akota">Akota / Subhanpura</option>
+          <option value="manjalpur">Manjalpur</option>
+          <option value="waghodia">Waghodia / Bapod / VIP Rd</option>
+          <option value="makarpura">Makarpura / Maneja</option>
+          <option value="atladara">Atladara / Vadsar</option>
+          <option value="karelibaug">Karelibaug / Nizampura</option>
+          <option value="fatehgunj">Fatehgunj / Sayajigunj</option>
+          <option value="gorwa">Gorwa / Sarabhai Rd</option>
+        </select>
+        <div id="company-tier-pills" class="company-tier-pills" role="group" aria-label="Filter companies by tier">
+          <button class="tier-pill active" data-tier="all" type="button">All</button>
+          <button class="tier-pill" data-tier="MNC / Enterprise" type="button">MNC / Enterprise</button>
+          <button class="tier-pill" data-tier="Mid-Size IT" type="button">Mid-Size IT</button>
+          <button class="tier-pill" data-tier="Small / Startup" type="button">Small &amp; Startups</button>
+        </div>
+      </div>
+
+      <div class="results-bar">
+        <span id="directory-count">Loading Vadodara IT companies...</span>
+      </div>
+
+      <div id="vadodara-directory-grid" class="directory-grid"></div>
+
+      <div id="directory-more-wrap" class="load-more-wrap hidden">
+        <button id="directory-more-btn" class="outline-btn load-more-btn" type="button">
+          Show All Vadodara IT Companies
+        </button>
+      </div>
+    </section>
+
+    <section class="portals-section" aria-label="Direct Vadodara and Remote Job Portals">
+      <div class="section-header">
+        <h2>Direct Vadodara &amp; Remote Fresher Quick-Search Portals</h2>
+        <p>Instant pre-filtered fresher searches on major Indian job boards</p>
+      </div>
+      <div class="portals-grid" id="quick-portals"></div>
+    </section>
+
+    <footer class="footer">
+      <p>
+        Rat Racer BDQ &bull; Vadodara &amp; Remote IT Fresher Job Automation &amp; Optional Gmail Alerts &bull;
+        Saved/Applied status is stored privately in your browser.
+      </p>
+    </footer>
+  </div>
+
+  <!-- Back to top button -->
+  <button id="back-to-top" class="back-to-top hidden" type="button" aria-label="Back to top"
+    title="Back to top">↑</button>
+
+  <script src="app.js" type="module"></script>
+</body>
+
+</html>

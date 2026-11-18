@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.local
+data/subscribers.json
+*.log
+.DS_Store
+Thumbs.db
+preview-email.html

@@ -1,0 +1,1883 @@
+{
+  "city": "Vadodara, Gujarat",
+  "updatedAt": "2026-11-18",
+  "companies": [
+    {
+      "name": "Numerator",
+      "tier": "MNC / Enterprise",
+      "area": "Gotri / Alkapuri, Vadodara",
+      "address": "Vadodara, Gujarat (Data & Tech Delivery Center)",
+      "focus": "Market Intelligence, Consumer Data & Analytics SaaS",
+      "techStack": [
+        "Data Analytics",
+        "SQL",
+        "Python",
+        "Excel",
+        "QA",
+        "Azure",
+        ".NET"
+      ],
+      "fresherRoles": "Data Associate, Junior Data Analyst, QA Engineer Trainee, Technical Support",
+      "offersInternship": true,
+      "careersUrl": "https://www.numerator.com/careers"
+    },
+    {
+      "name": "NielsenIQ",
+      "tier": "MNC / Enterprise",
+      "area": "Gorwa / Alkapuri, Vadodara",
+      "address": "Vadodara, Gujarat (Global Analytics Hub)",
+      "focus": "Global Consumer Intelligence, Data Science & Analytics",
+      "techStack": [
+        "Data Analytics",
+        "Python",
+        "SQL",
+        "Power BI",
+        "Data Science"
+      ],
+      "fresherRoles": "Data Operations Analyst, Associate Data Scientist, Analytics Trainee",
+      "offersInternship": true,
+      "careersUrl": "https://careers.nielseniq.com/"
+    },
+    {
+      "name": "Rishabh Software",
+      "tier": "Mid-Size IT",
+      "area": "Gotri Road, Vadodara",
+      "address": "Rishabh House, 34/1, Opp. Nagar Panchayat Office, Gotri Road, Vadodara 390021",
+      "focus": "Digital Engineering, Cloud, Data Analytics & Enterprise Software",
+      "techStack": [
+        "Full-Stack",
+        "MERN",
+        "Python",
+        ".NET",
+        "Java",
+        "Data Analytics",
+        "UI/UX"
+      ],
+      "fresherRoles": "Software Engineer Trainee, Graduate Trainee, Web/Python/Data Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.rishabhsoft.com/careers"
+    },
+    {
+      "name": "Civica India",
+      "tier": "MNC / Enterprise",
+      "area": "Alkapuri / Biotech Park, Vadodara",
+      "address": "Vadodara, Gujarat (India Technology Hub)",
+      "focus": "Cloud Public-Sector Software, Automation & Digital Platforms",
+      "techStack": [
+        "Full-Stack",
+        "React",
+        "Angular",
+        ".NET",
+        "Python",
+        "QA",
+        "Cloud"
+      ],
+      "fresherRoles": "Graduate Software Engineer, Junior Developer, QA Trainee",
+      "offersInternship": true,
+      "careersUrl": "https://www.civica.com/en-in/careers/"
+    },
+    {
+      "name": "L&T Technology Services (LTTS)",
+      "tier": "MNC / Enterprise",
+      "area": "Waghodia / Knowledge City, Vadodara",
+      "address": "L&T Knowledge City, NH-8, Ajwa-Waghodia Crossing, Vadodara 390019",
+      "focus": "Engineering R&D, Digital Products, Embedded & AI Software",
+      "techStack": [
+        "Python",
+        "Full-Stack",
+        "AI/ML",
+        "Embedded",
+        "Cloud",
+        "Data Analytics"
+      ],
+      "fresherRoles": "Graduate Engineer Trainee (GET), Associate Engineer, Software Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.ltts.com/careers"
+    },
+    {
+      "name": "Mastercard",
+      "tier": "MNC / Enterprise",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara Technology & Operations Center, Gujarat",
+      "focus": "Global Payments Technology, Cybersecurity & Data Platforms",
+      "techStack": [
+        "Java",
+        "Python",
+        "Full-Stack",
+        "Data Analytics",
+        "Cloud",
+        "Security"
+      ],
+      "fresherRoles": "Associate Software Engineer, Data Analyst Intern, Launchpad Graduate",
+      "offersInternship": true,
+      "careersUrl": "https://careers.mastercard.com/"
+    },
+    {
+      "name": "MRI Software",
+      "tier": "MNC / Enterprise",
+      "area": "Alkapuri / Gotri, Vadodara",
+      "address": "Vadodara, Gujarat (Global Product Engineering Center)",
+      "focus": "Real Estate SaaS Products, Cloud & Enterprise Applications",
+      "techStack": [
+        "React",
+        "Angular",
+        ".NET",
+        "Full-Stack",
+        "SQL",
+        "QA"
+      ],
+      "fresherRoles": "Associate Software Engineer, Software Development Intern, QA Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.mrisoftware.com/careers/"
+    },
+    {
+      "name": "Automation Anywhere",
+      "tier": "MNC / Enterprise",
+      "area": "Gorwa / Alembic Park, Vadodara",
+      "address": "Alembic Business Park, Jyoti Nagar, Gorwa, Vadodara 390003",
+      "focus": "Enterprise RPA, Agentic AI & Process Automation SaaS",
+      "techStack": [
+        "Python",
+        "AI/ML",
+        "Full-Stack",
+        "RPA",
+        "Cloud",
+        "QA"
+      ],
+      "fresherRoles": "Associate Software Engineer, Automation Trainee, Engineering Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.automationanywhere.com/company/careers"
+    },
+    {
+      "name": "Veradigm (formerly Allscripts)",
+      "tier": "MNC / Enterprise",
+      "area": "Gotri / Lalbaug, Vadodara",
+      "address": "Vadodara, Gujarat (Healthcare IT Engineering Hub)",
+      "focus": "Healthcare Information Technology & Clinical Software Platforms",
+      "techStack": [
+        ".NET",
+        "Full-Stack",
+        "React",
+        "SQL",
+        "Data Analytics",
+        "QA"
+      ],
+      "fresherRoles": "Associate Software Engineer, Junior QA Engineer, Data Intern",
+      "offersInternship": true,
+      "careersUrl": "https://veradigm.com/careers/"
+    },
+    {
+      "name": "ABB India",
+      "tier": "MNC / Enterprise",
+      "area": "Maneja, Vadodara",
+      "address": "Maneja Works, Vadodara, Gujarat 390013",
+      "focus": "Industrial Digital Solutions, Automation Software & IoT",
+      "techStack": [
+        "Python",
+        "C#/.NET",
+        "Data Analytics",
+        "IoT",
+        "Full-Stack"
+      ],
+      "fresherRoles": "Graduate Engineer Trainee (GET), IT Trainee, Software Intern",
+      "offersInternship": true,
+      "careersUrl": "https://careers.abb/"
+    },
+    {
+      "name": "Siemens / Siemens Energy",
+      "tier": "MNC / Enterprise",
+      "area": "Maneja / Makarpura, Vadodara",
+      "address": "Makarpura / Maneja, Vadodara, Gujarat",
+      "focus": "Digital Industries, Industrial Software & Smart Grid Tech",
+      "techStack": [
+        "Python",
+        "Full-Stack",
+        "Data Analytics",
+        "Embedded",
+        "Cloud"
+      ],
+      "fresherRoles": "Graduate Trainee Engineer, Digital Intern, Junior Software Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.siemens.com/global/en/company/jobs.html"
+    },
+    {
+      "name": "Hitachi Energy",
+      "tier": "MNC / Enterprise",
+      "area": "Maneja, Vadodara",
+      "address": "Maneja, Vadodara, Gujarat 390013",
+      "focus": "Grid Automation Software, Enterprise IT & Digital Energy",
+      "techStack": [
+        "Python",
+        "Data Analytics",
+        "Full-Stack",
+        "IT Applications",
+        "SAP"
+      ],
+      "fresherRoles": "IT Application Trainee, Graduate Engineer Trainee, Analytics Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.hitachienergy.com/careers"
+    },
+    {
+      "name": "Investis Digital (IDX)",
+      "tier": "MNC / Enterprise",
+      "area": "Alkapuri / Gorwa, Vadodara",
+      "address": "Vadodara, Gujarat (Digital Delivery Center)",
+      "focus": "Corporate Web Platforms, Digital Communications & Analytics",
+      "techStack": [
+        "Full-Stack",
+        "React",
+        "Drupal",
+        "UI/UX",
+        "Data Analytics",
+        "Frontend"
+      ],
+      "fresherRoles": "Junior Web Developer, UI/UX Intern, Digital Analyst Fresher",
+      "offersInternship": true,
+      "careersUrl": "https://www.idx.inc/careers"
+    },
+    {
+      "name": "Collabera / Collabera Digital",
+      "tier": "MNC / Enterprise",
+      "area": "Alkapuri, Vadodara",
+      "address": "5th Floor, Windsor Plaza, R.C. Dutt Road, Alkapuri, Vadodara 390007",
+      "focus": "Digital Engineering, Cloud, Data & Global IT Talent Solutions",
+      "techStack": [
+        "Full-Stack",
+        "Python",
+        "Data Analytics",
+        "Cloud",
+        "Java"
+      ],
+      "fresherRoles": "Associate Software Engineer, Data Trainee, IT Support Fresher",
+      "offersInternship": true,
+      "careersUrl": "https://www.collabera.com/careers/"
+    },
+    {
+      "name": "Tata Consultancy Services (TCS)",
+      "tier": "MNC / Enterprise",
+      "area": "Subhanpura / Ellora Park, Vadodara",
+      "address": "Vadodara Regional Office / Gujarat Delivery Centers",
+      "focus": "Global IT Services, Consulting & Enterprise Digital Platforms",
+      "techStack": [
+        "Full-Stack",
+        "Python",
+        "Java",
+        "Data Analytics",
+        "Cloud"
+      ],
+      "fresherRoles": "Assistant System Engineer (Ninja / Digital / Prime via NQT)",
+      "offersInternship": true,
+      "careersUrl": "https://www.tcs.com/careers"
+    },
+    {
+      "name": "Linde Engineering India",
+      "tier": "MNC / Enterprise",
+      "area": "Race Course / Alkapuri, Vadodara",
+      "address": "Linde House, Near VUDA Circle, VIP Road, Vadodara 390018",
+      "focus": "Engineering Digitalization, Enterprise IT & Data Systems",
+      "techStack": [
+        "Python",
+        "Data Analytics",
+        "Power BI",
+        "SQL",
+        "IT Systems"
+      ],
+      "fresherRoles": "IT Graduate Trainee, Data Analytics Intern, Junior IT Executive",
+      "offersInternship": true,
+      "careersUrl": "https://www.linde-engineering.com/en/careers/"
+    },
+    {
+      "name": "Matrix Comsec",
+      "tier": "Mid-Size IT",
+      "area": "Makarpura GIDC, Vadodara",
+      "address": "394-GIDC, Makarpura, Vadodara, Gujarat 390010",
+      "focus": "Telecom, Video Surveillance & Security Software Product Engineering",
+      "techStack": [
+        "Full-Stack",
+        "Python",
+        "C/C++",
+        "React",
+        "Embedded",
+        "QA"
+      ],
+      "fresherRoles": "Graduate Engineer Trainee, Software Developer Fresher, Testing Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.matrixcomsec.com/careers.html"
+    },
+    {
+      "name": "Schneider Electric",
+      "tier": "MNC / Enterprise",
+      "area": "Halol / Vadodara, Gujarat",
+      "address": "Vadodara Region, Gujarat",
+      "focus": "Energy Management Software, IoT & Digital Automation",
+      "techStack": [
+        "Python",
+        "Data Analytics",
+        "Full-Stack",
+        "IoT",
+        "Power BI"
+      ],
+      "fresherRoles": "Graduate Engineer Trainee, Digital & Data Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.se.com/in/en/about-us/careers/overview.jsp"
+    },
+    {
+      "name": "NetWeb Software",
+      "tier": "Mid-Size IT",
+      "area": "Alkapuri / Akota, Vadodara",
+      "address": "Vadodara, Gujarat",
+      "focus": "Custom Software Product Engineering, Cloud & AI Applications",
+      "techStack": [
+        "Full-Stack",
+        "Python",
+        ".NET",
+        "React",
+        "Angular",
+        "Data Analytics"
+      ],
+      "fresherRoles": "Junior Software Developer, Trainee Engineer, Software Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/company/netweb-software/jobs/"
+    },
+    {
+      "name": "Prakash Software Solutions",
+      "tier": "Mid-Size IT",
+      "area": "Gotri-Sevasi Road, Vadodara",
+      "address": "601, Ananta Stallion, Gotri-Sevasi Main Road, Vadodara 391101",
+      "focus": "Enterprise Web/Mobile Software, Microsoft Stack & GenAI Apps",
+      "techStack": [
+        "Full-Stack",
+        "React",
+        "Python",
+        ".NET",
+        "SharePoint",
+        "AI/ML"
+      ],
+      "fresherRoles": "Trainee Software Engineer, Junior Developer, Web Intern",
+      "offersInternship": true,
+      "careersUrl": "https://prakashinfotech.com/"
+    },
+    {
+      "name": "Helios Solutions",
+      "tier": "Mid-Size IT",
+      "area": "Sarabhai Campus, Gorwa, Vadodara",
+      "address": "4th Floor, Ocean Building, Sarabhai Campus, Gorwa, Vadodara 390023",
+      "focus": "Global Web/Mobile Development, Python & Digital Consulting",
+      "techStack": [
+        "Python",
+        "Full-Stack",
+        "React",
+        "Node.js",
+        "UI/UX",
+        "PHP"
+      ],
+      "fresherRoles": "IT / Web / Python / UI-UX Intern, Junior Software Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.heliossolutions.co/connect-with-us/apply-for-internship/"
+    },
+    {
+      "name": "Promact Infotech",
+      "tier": "Mid-Size IT",
+      "area": "Sarabhai Road / Genda Circle, Vadodara",
+      "address": "302, Atlantis K-10, Sarabhai Main Road, Genda Circle, Vadodara 390007",
+      "focus": "Product Engineering, SaaS Development & Agile Web Solutions",
+      "techStack": [
+        "Full-Stack",
+        "MERN",
+        "Angular",
+        ".NET",
+        "Python",
+        "UI/UX"
+      ],
+      "fresherRoles": "Junior Software Engineer, Product Engineering Intern",
+      "offersInternship": true,
+      "careersUrl": "https://ssa.promactinfo.xyz/careers"
+    },
+    {
+      "name": "Webmyne Systems",
+      "tier": "Mid-Size IT",
+      "area": "Akota, Vadodara",
+      "address": "3rd Floor, Prestige Complex, Near Akota Stadium, Akota, Vadodara 390020",
+      "focus": "Custom Web Apps, Cloud Computing & UI/UX Product Design",
+      "techStack": [
+        "Full-Stack",
+        "UI/UX",
+        "React",
+        "Node.js",
+        ".NET",
+        "QA"
+      ],
+      "fresherRoles": "Junior Developer, UI/UX Designer Intern, QA Trainee",
+      "offersInternship": true,
+      "careersUrl": "https://www.webmyne.com/careers/"
+    },
+    {
+      "name": "Spaculus Software",
+      "tier": "Mid-Size IT",
+      "area": "Alkapuri / Gotri, Vadodara",
+      "address": "Vadodara, Gujarat",
+      "focus": "AI Engineering, Web/Mobile Apps, UI/UX & Data Engineering",
+      "techStack": [
+        "MERN",
+        "Python",
+        "AI/ML",
+        "UI/UX",
+        "Full-Stack",
+        "Data Engineering"
+      ],
+      "fresherRoles": "Junior Developer, AI/Python Intern, UI/UX Design Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.spaculus.com/careers/"
+    },
+    {
+      "name": "Zignuts Technolab",
+      "tier": "Mid-Size IT",
+      "area": "Vadodara / Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Full-Stack Web, Mobile Apps & Digital Product Engineering",
+      "techStack": [
+        "MERN",
+        "Full-Stack",
+        "React",
+        "Node.js",
+        "Python",
+        "UI/UX"
+      ],
+      "fresherRoles": "Software / Full-Stack / MERN / UI-UX Intern, Trainee Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.zignuts.com/career"
+    },
+    {
+      "name": "Atyantik Technologies",
+      "tier": "Mid-Size IT",
+      "area": "Akota, Vadodara",
+      "address": "Near Akota, Vadodara, Gujarat 390020",
+      "focus": "JavaScript/TypeScript Product Engineering, React & UI/UX",
+      "techStack": [
+        "MERN",
+        "React",
+        "Node.js",
+        "TypeScript",
+        "Full-Stack",
+        "UI/UX"
+      ],
+      "fresherRoles": "Structured Internship Programme (Full-Stack, React, UI/UX, Backend)",
+      "offersInternship": true,
+      "careersUrl": "https://atyantik.com/careers/"
+    },
+    {
+      "name": "Dhyey Consulting",
+      "tier": "Mid-Size IT",
+      "area": "Alkapuri, Vadodara",
+      "address": "401-402, Siddharth Complex, R.C. Dutt Road, Alkapuri, Vadodara 390007",
+      "focus": "Microsoft Dynamics ERP, Power BI & Business Intelligence",
+      "techStack": [
+        "Power BI",
+        "Data Analytics",
+        "SQL",
+        "Microsoft Dynamics",
+        ".NET"
+      ],
+      "fresherRoles": "BI / Power BI Trainee, ERP Functional/Tech Fresher",
+      "offersInternship": true,
+      "careersUrl": "https://www.dhyey.com/"
+    },
+    {
+      "name": "Exxat (Vadodara Delivery Center)",
+      "tier": "Mid-Size IT",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara Delivery Center, Gujarat",
+      "focus": "Healthcare Education SaaS, Database & Full-Stack Web Platforms",
+      "techStack": [
+        "Full-Stack",
+        "Python",
+        "SQL",
+        "React",
+        ".NET",
+        "QA"
+      ],
+      "fresherRoles": "Software Engineering Intern, SQL/Backend Trainee, QA Intern",
+      "offersInternship": true,
+      "careersUrl": "https://exxat.com/"
+    },
+    {
+      "name": "Cloudester Software LLP",
+      "tier": "Mid-Size IT",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Custom Web/Mobile Software, Cloud & SaaS Engineering",
+      "techStack": [
+        "Full-Stack",
+        "MERN",
+        "Python",
+        "UI/UX",
+        "Mobile"
+      ],
+      "fresherRoles": "Junior Software Developer, Software Intern, Technical Support",
+      "offersInternship": true,
+      "careersUrl": "https://cloudester.zohorecruit.in/jobs/Careers"
+    },
+    {
+      "name": "MaMo Technolabs",
+      "tier": "Mid-Size IT",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat (CMMI Level 3 Certified)",
+      "focus": "Web/Mobile Software, UI/UX & Enterprise Digital Solutions",
+      "techStack": [
+        "Full-Stack",
+        "MERN",
+        "React",
+        "UI/UX",
+        "Frontend"
+      ],
+      "fresherRoles": "AICTE-Approved 3–6 Month Student Internship (Full-Stack, UI/UX, Frontend)",
+      "offersInternship": true,
+      "careersUrl": "https://mamotechnolabs.com/internship/"
+    },
+    {
+      "name": "Zithas Technologies",
+      "tier": "Small / Startup",
+      "area": "Gotri, Vadodara",
+      "address": "Gotri, Vadodara, Gujarat",
+      "focus": "Custom Web Apps, SaaS Development & Quality Assurance",
+      "techStack": [
+        "MERN",
+        "Full-Stack",
+        "React",
+        "Java",
+        "QA",
+        "UI/UX"
+      ],
+      "fresherRoles": "Full-Stack / MERN Intern, QA Software Testing Intern, Junior Dev",
+      "offersInternship": true,
+      "careersUrl": "https://www.zithas.com/careers/"
+    },
+    {
+      "name": "Trevita Infotech",
+      "tier": "Small / Startup",
+      "area": "Alkapuri, Vadodara",
+      "address": "2nd Floor, Emerald One, C-283, Jetalpur Road, Alkapuri, Vadodara 390007",
+      "focus": "Web Development, Custom Software, Mobile Apps & UI/UX",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "JavaScript",
+        "PHP",
+        "UI/UX"
+      ],
+      "fresherRoles": "Software Dev, Web Dev & UI/UX Student Internship Programs",
+      "offersInternship": true,
+      "careersUrl": "https://www.trevitainfotech.com/career"
+    },
+    {
+      "name": "SI2 Tech",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Full-Stack Web Applications, SaaS & Product Development",
+      "techStack": [
+        "Full-Stack",
+        "MERN",
+        "React",
+        "Node.js",
+        "Python"
+      ],
+      "fresherRoles": "Full Stack Developer Intern, Junior Software Developer",
+      "offersInternship": true,
+      "careersUrl": "https://si2tech.com/careers/"
+    },
+    {
+      "name": "Barodaweb",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "E-Commerce Web Solutions, Software Engineering & Live-Project Internships",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "Python",
+        ".NET",
+        "SQL"
+      ],
+      "fresherRoles": "Live-Project Student Internship (B.Tech, BCA, MCA, M.Sc IT)",
+      "offersInternship": true,
+      "careersUrl": "https://www.barodaweb.com/dynamic/internship"
+    },
+    {
+      "name": "SWC Infotech",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Smart IT & CRM Solutions, MERN Stack & AI Integrations",
+      "techStack": [
+        "MERN",
+        "Full-Stack",
+        "React",
+        "Node.js",
+        "AI"
+      ],
+      "fresherRoles": "MERN Stack Intern, Full-Stack Developer Fresher",
+      "offersInternship": true,
+      "careersUrl": "https://swcinfotech.com/careers/"
+    },
+    {
+      "name": "Ecare Infoway LLP (eCare Upskill)",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Web/Mobile Software Development & Student IT Internships",
+      "techStack": [
+        "Full-Stack",
+        "Python",
+        "Web Dev",
+        "UI/UX",
+        "SQL"
+      ],
+      "fresherRoles": "BCA / MCA / B.Tech IT Student Internship & Trainee Developer",
+      "offersInternship": true,
+      "careersUrl": "https://ecareupskill.com/"
+    },
+    {
+      "name": "Enlighten Infosystems",
+      "tier": "Small / Startup",
+      "area": "Akota / Vadodara",
+      "address": "Vadodara, Gujarat",
+      "focus": "Full-Stack Web, Mobile Apps, Data Science & Live-Project Internships",
+      "techStack": [
+        "MERN",
+        "Full-Stack",
+        "Python",
+        "Data Science",
+        "AI/ML"
+      ],
+      "fresherRoles": "3–6 Month Live-Project MERN / Python / Data Science Intern",
+      "offersInternship": true,
+      "careersUrl": "https://enlighteninfosystems.com/"
+    },
+    {
+      "name": "Nivida Software",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Web, Mobile, React, Python & Custom Business Applications",
+      "techStack": [
+        "React",
+        "Python",
+        "Full-Stack",
+        "Angular",
+        "Flutter"
+      ],
+      "fresherRoles": "Junior Web/React/Python Developer, Student Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.nividasoftware.com/career"
+    },
+    {
+      "name": "Heliconia Solutions",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Python, Odoo ERP & Open-Source Web Development",
+      "techStack": [
+        "Python",
+        "Odoo",
+        "Full-Stack",
+        "PostgreSQL",
+        "JavaScript"
+      ],
+      "fresherRoles": "Python / Odoo Developer Intern, Junior Python Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.heliconia.io/"
+    },
+    {
+      "name": "V-Ex Tech Solution",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Software Development, Data Analytics & IT Student Internships",
+      "techStack": [
+        "Python",
+        "Data Analytics",
+        "Power BI",
+        "SQL",
+        "UI/UX",
+        "MERN"
+      ],
+      "fresherRoles": "Python, Data Analyst, UI/UX & MERN Student Intern",
+      "offersInternship": true,
+      "careersUrl": "https://v-extechsolution.in/"
+    },
+    {
+      "name": "Techgrains Technologies",
+      "tier": "Small / Startup",
+      "area": "Alkapuri / Vadodara",
+      "address": "Vadodara, Gujarat",
+      "focus": "Enterprise Mobility, Web Apps & Digital Product Development",
+      "techStack": [
+        "Full-Stack",
+        "React",
+        "Node.js",
+        "Java",
+        "Mobile",
+        "UI/UX"
+      ],
+      "fresherRoles": "Junior Software Engineer, Mobile/Web Developer Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.techgrains.com/careers"
+    },
+    {
+      "name": "Maskoid Technologies",
+      "tier": "Small / Startup",
+      "area": "Akota / Vadodara",
+      "address": "Vadodara, Gujarat",
+      "focus": "Web Development, SaaS Software & Digital Product Tools",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "JavaScript",
+        "UI/UX",
+        "Python"
+      ],
+      "fresherRoles": "Web Developer Intern, Junior Software Developer",
+      "offersInternship": true,
+      "careersUrl": "https://careers.smartrecruiters.com/maskoidtechnologies"
+    },
+    {
+      "name": "TecUnique",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Custom Software Engineering, Cloud & QA Automation",
+      "techStack": [
+        "Full-Stack",
+        "Python",
+        "React",
+        "QA Automation",
+        "Cloud"
+      ],
+      "fresherRoles": "Software Trainee, QA Automation Intern, Junior Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.tecunique.com/careers"
+    },
+    {
+      "name": "Kanan.co (Kanan International Tech)",
+      "tier": "Mid-Size IT",
+      "area": "Alkapuri / Fatehgunj, Vadodara",
+      "address": "Vadodara, Gujarat",
+      "focus": "EdTech SaaS Platforms, Web Products & UI/UX Engineering",
+      "techStack": [
+        "UI/UX",
+        "React",
+        "Full-Stack",
+        "Data Analytics",
+        "Python"
+      ],
+      "fresherRoles": "UI/UX Designer Fresher, Junior Web Developer, Data Analyst",
+      "offersInternship": true,
+      "careersUrl": "https://www.kanan.co/"
+    },
+    {
+      "name": "Charge+Zone",
+      "tier": "Small / Startup",
+      "area": "Gotri Road, Vadodara",
+      "address": "301, Iscon Emporio, Gotri Road, Vadodara 390021",
+      "focus": "EV Cloud-Tech Platform, IoT & Data Analytics Startup",
+      "techStack": [
+        "Full-Stack",
+        "Python",
+        "Data Analytics",
+        "IoT",
+        "Cloud"
+      ],
+      "fresherRoles": "Software Engineering Intern, Data Analyst Fresher",
+      "offersInternship": true,
+      "careersUrl": "https://www.chargezone.co.in/"
+    },
+    {
+      "name": "ScrumBees Technologies",
+      "tier": "Small / Startup",
+      "area": "Sarabhai Road, Vadodara",
+      "address": "310, Atlantis, Sarabhai Road, Vadodara 390007",
+      "focus": "Agile Web Application Engineering & Software Consulting",
+      "techStack": [
+        "Full-Stack",
+        "React",
+        "Node.js",
+        "Python",
+        "QA"
+      ],
+      "fresherRoles": "Junior Web Developer, Software Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/company/scrumbees-technologies/"
+    },
+    {
+      "name": "Adrixus Tech Studio",
+      "tier": "Small / Startup",
+      "area": "Alkapuri / Vadodara",
+      "address": "Vadodara, Gujarat",
+      "focus": "UI/UX Design Studio, Custom Software & App Engineering",
+      "techStack": [
+        "UI/UX",
+        "Figma",
+        "React",
+        "Full-Stack",
+        "Mobile"
+      ],
+      "fresherRoles": "UI/UX Design Intern, Frontend Developer Fresher",
+      "offersInternship": true,
+      "careersUrl": "https://adrixus.com/"
+    },
+    {
+      "name": "Pavans Group",
+      "tier": "Small / Startup",
+      "area": "Akota, Vadodara",
+      "address": "Vadodara, Gujarat",
+      "focus": "Custom Software, AI Integration & Web/Mobile Digital Products",
+      "techStack": [
+        "Full-Stack",
+        "AI/ML",
+        "Python",
+        "React",
+        "UI/UX"
+      ],
+      "fresherRoles": "Junior Developer, AI/Web Intern",
+      "offersInternship": true,
+      "careersUrl": "https://pavansgroup.com/"
+    },
+    {
+      "name": "Dots & Coms",
+      "tier": "Small / Startup",
+      "area": "Alkapuri, Vadodara",
+      "address": "Vadodara, Gujarat",
+      "focus": "Digital Solutions, Web Engineering & Enterprise Software",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "UI/UX",
+        "PHP",
+        "JavaScript"
+      ],
+      "fresherRoles": "Junior Web Developer, UI/UX Designer Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.dotsandcoms.in/"
+    },
+    {
+      "name": "Cortax IT Solutions",
+      "tier": "Small / Startup",
+      "area": "Bapod / New VIP Road, Vadodara",
+      "address": "Shree Krishna Residency, Madhavpura, Bapod, Vadodara 390019",
+      "focus": "Business Automation, Custom Software & ERP/CRM Systems",
+      "techStack": [
+        "Full-Stack",
+        "Python",
+        "SQL",
+        "Web Dev",
+        "ERP/CRM"
+      ],
+      "fresherRoles": "Software Trainee, Junior Web Developer, Intern",
+      "offersInternship": true,
+      "careersUrl": "https://cortax.in/"
+    },
+    {
+      "name": "Arth Technology",
+      "tier": "Small / Startup",
+      "area": "New VIP Road / Waghodia, Vadodara",
+      "address": "Earth Icon, New VIP Road, Vadodara 390019",
+      "focus": "Custom Web/Mobile Software & Student Live-Project Internships",
+      "techStack": [
+        "Python",
+        "Full-Stack",
+        "Web Dev",
+        "React",
+        "QA"
+      ],
+      "fresherRoles": "Python / Web / Full-Stack Student Intern",
+      "offersInternship": true,
+      "careersUrl": "https://arthtraininginstitute.com/"
+    },
+    {
+      "name": "Ethics Infotech",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Enterprise ERP, IT Infrastructure & Technical Support",
+      "techStack": [
+        "IT Support",
+        "SQL",
+        "ERP",
+        "Web Dev",
+        "Networking"
+      ],
+      "fresherRoles": "IT Support Engineer Fresher, Junior Software Executive",
+      "offersInternship": true,
+      "careersUrl": "https://ethicsinfotech.in/"
+    },
+    {
+      "name": "SomSkillTech",
+      "tier": "Small / Startup",
+      "area": "Alkapuri, Vadodara",
+      "address": "Alkapuri, Vadodara, Gujarat",
+      "focus": "Cloud ERP, Custom Software & Web/Mobile App Development",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "Cloud",
+        "Python"
+      ],
+      "fresherRoles": "Junior Developer, Software Intern",
+      "offersInternship": true,
+      "careersUrl": "https://somskilltech.in/"
+    },
+    {
+      "name": "Tejaskp AI Software",
+      "tier": "Small / Startup",
+      "area": "Vasna-Bhayli / Gotri, Vadodara",
+      "address": "Vasna-Bhayli Road, Vadodara, Gujarat",
+      "focus": "Custom SaaS Web Platforms, AI Solutions & Enterprise Portals",
+      "techStack": [
+        "Python",
+        "AI/ML",
+        "Full-Stack",
+        "MERN",
+        "React"
+      ],
+      "fresherRoles": "AI/Python Intern, Junior Full-Stack Developer",
+      "offersInternship": true,
+      "careersUrl": "https://tejaskpaisoftware.com/"
+    },
+    {
+      "name": "CareerNaksha",
+      "tier": "Small / Startup",
+      "area": "Fatehgunj, Vadodara",
+      "address": "Fatehgunj, Vadodara, Gujarat",
+      "focus": "Career-Tech SaaS Platform & Web Analytics",
+      "techStack": [
+        "Full-Stack",
+        "MERN",
+        "Data Analytics",
+        "UI/UX"
+      ],
+      "fresherRoles": "Full Stack Developer Intern, Data & Product Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.careernaksha.com/"
+    },
+    {
+      "name": "e-Intelligence",
+      "tier": "Small / Startup",
+      "area": "Alkapuri / Vadodara",
+      "address": "Vadodara, Gujarat",
+      "focus": "Web Development, Digital Analytics & UI/UX Agency",
+      "techStack": [
+        "Web Dev",
+        "UI/UX",
+        "Data Analytics",
+        "Frontend"
+      ],
+      "fresherRoles": "Web Design / UI-UX Intern, Junior Frontend Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.e-intelligence.in/careers/"
+    },
+    {
+      "name": "Adroit Infosol",
+      "tier": "Small / Startup",
+      "area": "Manjalpur, Vadodara",
+      "address": "Monalisa Business Center, Manjalpur, Vadodara",
+      "focus": "Web, Mobile App & Custom Software Development",
+      "techStack": [
+        "Full-Stack",
+        "React",
+        "Mobile",
+        "Web Dev"
+      ],
+      "fresherRoles": "Junior Web Developer, Mobile App Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.adroitinfosol.com/"
+    },
+    {
+      "name": "Friendly IT Solution",
+      "tier": "Small / Startup",
+      "area": "Manjalpur, Vadodara",
+      "address": "Samanvay Sequence, Manjalpur, Vadodara",
+      "focus": "Flutter Mobile Apps, Web Apps & Desktop Software",
+      "techStack": [
+        "Flutter",
+        "Full-Stack",
+        "Web Dev",
+        "UI/UX"
+      ],
+      "fresherRoles": "Flutter Intern, Junior Web Developer",
+      "offersInternship": true,
+      "careersUrl": "https://friendlyitsolution.in/"
+    },
+    {
+      "name": "Myrestica Technologies Pvt. Ltd.",
+      "tier": "Small / Startup",
+      "area": "Manjalpur, Vadodara",
+      "address": "Manjalpur, Vadodara, Gujarat",
+      "focus": "Custom Software, Mobile Apps & Digital Engineering",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "Mobile",
+        "UI/UX"
+      ],
+      "fresherRoles": "Software Developer Intern, Trainee Developer",
+      "offersInternship": true,
+      "careersUrl": "https://myrestica.com/"
+    },
+    {
+      "name": "TechStrota",
+      "tier": "Small / Startup",
+      "area": "Alkapuri, Vadodara",
+      "address": "Sterling Centre, R.C. Dutt Road, Alkapuri, Vadodara 390007",
+      "focus": "Scalable SaaS Web Platforms, React, Next.js & Flutter",
+      "techStack": [
+        "MERN",
+        "React",
+        "Next.js",
+        "Full-Stack",
+        "Laravel",
+        "Flutter"
+      ],
+      "fresherRoles": "React / Next.js Intern, Full-Stack Developer Fresher",
+      "offersInternship": true,
+      "careersUrl": "https://techstrota.com/"
+    },
+    {
+      "name": "Techsphere",
+      "tier": "Small / Startup",
+      "area": "Alkapuri, Vadodara",
+      "address": "Alkapuri, Vadodara, Gujarat 390007",
+      "focus": "Custom Web Apps, Enterprise Workflows & UI/UX Design",
+      "techStack": [
+        "Full-Stack",
+        "UI/UX",
+        "React",
+        "API Integration"
+      ],
+      "fresherRoles": "UI/UX Design Intern, Junior Web Developer",
+      "offersInternship": true,
+      "careersUrl": "https://techsphere.co.in/"
+    },
+    {
+      "name": "Trois Infotech",
+      "tier": "Small / Startup",
+      "area": "Genda Circle / Alkapuri, Vadodara",
+      "address": "Near Genda Circle, Vadodara, Gujarat 390007",
+      "focus": "Web Applications, Software Development & E-Commerce Portals",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "PHP",
+        "JavaScript"
+      ],
+      "fresherRoles": "Junior Web Developer, Software Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.troisinfotech.com/"
+    },
+    {
+      "name": "AV DEVS Solutions Pvt. Ltd.",
+      "tier": "Mid-Size IT",
+      "area": "Vasna-Bhayli, Vadodara",
+      "address": "Nilamber Primero, Near Nilamber Circle, Vasna-Bhayli Road, Vadodara",
+      "focus": "Agile Product Engineering, Cloud & Enterprise Software",
+      "techStack": [
+        "Full-Stack",
+        "MERN",
+        "React",
+        "Node.js",
+        "Cloud",
+        "Python"
+      ],
+      "fresherRoles": "Associate Software Engineer, Product Dev Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.avdevs.com/"
+    },
+    {
+      "name": "ITSKY Technology Pvt. Ltd.",
+      "tier": "Small / Startup",
+      "area": "Vasna-Bhayli, Vadodara",
+      "address": "Vasna-Bhayli Road, Vadodara, Gujarat",
+      "focus": "Cloud ERP Systems & SME Workflow Automation Software",
+      "techStack": [
+        "Full-Stack",
+        "Cloud",
+        "ERP",
+        "SQL",
+        "Web Dev"
+      ],
+      "fresherRoles": "ERP Software Trainee, Junior Developer",
+      "offersInternship": true,
+      "careersUrl": "https://itskytechnology.com/"
+    },
+    {
+      "name": "Webbrains Technologies",
+      "tier": "Small / Startup",
+      "area": "Vasna-Bhayli, Vadodara",
+      "address": "Darshanam Oxy Park, Vasna-Bhayli Road, Vadodara",
+      "focus": "Web Design, Custom Software & Digital Engineering",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "UI/UX",
+        "React"
+      ],
+      "fresherRoles": "Web Developer Intern, UI/UX Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Webbrains%20Technologies%20Vadodara"
+    },
+    {
+      "name": "Balkrushna Technologies Pvt. Ltd.",
+      "tier": "Small / Startup",
+      "area": "Bhayli, Vadodara",
+      "address": "Bhayli, Vadodara, Gujarat",
+      "focus": "Digital Products & Software Engineering for MSMEs",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "Python",
+        "SQL"
+      ],
+      "fresherRoles": "Junior Software Developer, Software Intern",
+      "offersInternship": true,
+      "careersUrl": "https://balkrushna.com/"
+    },
+    {
+      "name": "Prometheas Technologies",
+      "tier": "Small / Startup",
+      "area": "Sevasi, Vadodara",
+      "address": "Gotri-Sevasi Corridor, Vadodara, Gujarat",
+      "focus": "Cloud Computing, Data Integration & Custom Software",
+      "techStack": [
+        "Python",
+        "Data Analytics",
+        "Cloud",
+        "Full-Stack"
+      ],
+      "fresherRoles": "Junior Data / Cloud Engineer, Software Intern",
+      "offersInternship": true,
+      "careersUrl": "https://prometheastech.com/"
+    },
+    {
+      "name": "Skillcode Hub",
+      "tier": "Small / Startup",
+      "area": "Waghodia Road, Vadodara",
+      "address": "Sunrise Shops & Flats, Waghodia Road, Vadodara",
+      "focus": "Custom Software, Websites & Mobile App Development",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "React",
+        "Mobile"
+      ],
+      "fresherRoles": "Web / App Development Student Intern",
+      "offersInternship": true,
+      "careersUrl": "https://skillcodehub.com/"
+    },
+    {
+      "name": "Techax Labs",
+      "tier": "Small / Startup",
+      "area": "Waghodia Road, Vadodara",
+      "address": "Near Waghodia Road, Vadodara, Gujarat",
+      "focus": "Full-Stack Engineering, Web Apps & Digital Products",
+      "techStack": [
+        "MERN",
+        "Full-Stack",
+        "React",
+        "Node.js",
+        "UI/UX"
+      ],
+      "fresherRoles": "Full-Stack Intern, Junior Frontend/Backend Dev",
+      "offersInternship": true,
+      "careersUrl": "https://techaxlabs.com/"
+    },
+    {
+      "name": "Dhrup IT Solutions Pvt. Ltd.",
+      "tier": "Small / Startup",
+      "area": "Atladara, Vadodara",
+      "address": "Atladara, Vadodara, Gujarat",
+      "focus": "Custom Software Development, Web Design & IT Services",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "UI/UX",
+        "PHP"
+      ],
+      "fresherRoles": "Junior Web Developer, IT Trainee",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Dhrup%20IT%20Solutions%20Vadodara"
+    },
+    {
+      "name": "Techfinitys",
+      "tier": "Small / Startup",
+      "area": "Nizampura, Vadodara",
+      "address": "Kunj Solitaire, Delux Char Rasta, Nizampura Road, Vadodara",
+      "focus": "Web Development, Tech Consulting & Digital Solutions",
+      "techStack": [
+        "Web Dev",
+        "Full-Stack",
+        "UI/UX",
+        "JavaScript"
+      ],
+      "fresherRoles": "Web Developer Intern, Junior Frontend Dev",
+      "offersInternship": true,
+      "careersUrl": "https://techfinitys.com/"
+    },
+    {
+      "name": "Zen Softech Pvt. Ltd.",
+      "tier": "Small / Startup",
+      "area": "Nizampura, Vadodara",
+      "address": "Nizampura, Vadodara, Gujarat",
+      "focus": "Enterprise Software Consultancy & IT Solutions",
+      "techStack": [
+        "Full-Stack",
+        "SQL",
+        ".NET",
+        "Java"
+      ],
+      "fresherRoles": "Software Trainee, Junior Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Zen%20Softech%20Vadodara"
+    },
+    {
+      "name": "Swirl (GetNatty)",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat (SaaS Product Startup)",
+      "focus": "Live Video-Commerce SaaS Platform for Global Brands",
+      "techStack": [
+        "MERN",
+        "React",
+        "Node.js",
+        "Python",
+        "Data Analytics",
+        "UI/UX"
+      ],
+      "fresherRoles": "Product / Full-Stack Intern, UI/UX Intern, Data Analyst",
+      "offersInternship": true,
+      "careersUrl": "https://www.goswirl.live/"
+    },
+    {
+      "name": "WovV Technologies",
+      "tier": "Mid-Size IT",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat (Enterprise SaaS)",
+      "focus": "Business-Productivity, BI & Revenue Assurance SaaS",
+      "techStack": [
+        "Full-Stack",
+        "Data Analytics",
+        "BI",
+        "React",
+        "Python"
+      ],
+      "fresherRoles": "Associate Software Engineer, BI / QA Intern",
+      "offersInternship": true,
+      "careersUrl": "https://wovvtech.com/"
+    },
+    {
+      "name": "RecruitOwl",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat (AI HR-Tech SaaS)",
+      "focus": "AI-Powered Recruitment & Screening SaaS Platform",
+      "techStack": [
+        "Python",
+        "AI/ML",
+        "React",
+        "MERN",
+        "Full-Stack"
+      ],
+      "fresherRoles": "Full-Stack / AI Intern, Junior Software Developer",
+      "offersInternship": true,
+      "careersUrl": "https://recruitowl.com/"
+    },
+    {
+      "name": "Caz Brain Group",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "AI Agents, Private RAG, SaaS & ERP/CRM Automation",
+      "techStack": [
+        "Python",
+        "AI/ML",
+        "Full-Stack",
+        "React",
+        "Node.js"
+      ],
+      "fresherRoles": "Python / AI Intern, Full-Stack Trainee",
+      "offersInternship": true,
+      "careersUrl": "https://cazbraingroup.com/"
+    },
+    {
+      "name": "EveoAI",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat (GenAI Product Startup)",
+      "focus": "Generative AI Consumer Tech & Personalization",
+      "techStack": [
+        "Python",
+        "AI/ML",
+        "UI/UX",
+        "Full-Stack"
+      ],
+      "fresherRoles": "AI/ML Intern, UI/UX Product Intern",
+      "offersInternship": true,
+      "careersUrl": "https://wellfound.com/"
+    },
+    {
+      "name": "Slash Software",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Full-Cycle Product Engineering, UI/UX & Mobile Apps",
+      "techStack": [
+        "Full-Stack",
+        "UI/UX",
+        "React",
+        "Node.js",
+        "Mobile"
+      ],
+      "fresherRoles": "UI/UX Intern, Junior Full-Stack Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Slash%20Software%20Vadodara"
+    },
+    {
+      "name": "Megh Technologies",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Corporate Web Design, Custom Software & IT Services",
+      "techStack": [
+        "Web Dev",
+        "Full-Stack",
+        "UI/UX",
+        "PHP",
+        "React"
+      ],
+      "fresherRoles": "Web Designer / UI-UX Intern, Junior Web Dev",
+      "offersInternship": true,
+      "careersUrl": "https://www.meghtechnologies.com/"
+    },
+    {
+      "name": "MySphere Infotech",
+      "tier": "Small / Startup",
+      "area": "Alkapuri / Vadodara",
+      "address": "Vadodara, Gujarat",
+      "focus": "Web Applications, Flutter & Mobile App Development",
+      "techStack": [
+        "Full-Stack",
+        "Flutter",
+        "React",
+        "UI/UX"
+      ],
+      "fresherRoles": "Mobile/Web Developer Intern, Junior Developer",
+      "offersInternship": true,
+      "careersUrl": "https://mysphereinfotech.com/"
+    },
+    {
+      "name": "Healthcare Informatics Pvt. Ltd.",
+      "tier": "Small / Startup",
+      "area": "Jetalpur Road / Alkapuri, Vadodara",
+      "address": "Indiabulls Mega Mall, Dinesh Mill Rd, Jetalpur Rd, Vadodara 390020",
+      "focus": "Healthcare Software & Hospital Management IT Products",
+      "techStack": [
+        "Full-Stack",
+        "SQL",
+        ".NET",
+        "Data Analytics"
+      ],
+      "fresherRoles": "Junior Software Engineer, SQL / Support Trainee",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Healthcare%20Informatics%20Vadodara"
+    },
+    {
+      "name": "Priya Sharma Software Pvt. Ltd.",
+      "tier": "Small / Startup",
+      "area": "Race Course, Vadodara",
+      "address": "Near Race Course Circle, Vadodara, Gujarat",
+      "focus": "Enterprise Business Software & Database Applications",
+      "techStack": [
+        "Full-Stack",
+        "SQL",
+        ".NET",
+        "Web Dev"
+      ],
+      "fresherRoles": "Software Developer Trainee, Junior Programmer",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Priya%20Sharma%20Software%20Vadodara"
+    },
+    {
+      "name": "Quickstart Resource Management",
+      "tier": "Small / Startup",
+      "area": "Alkapuri, Vadodara",
+      "address": "Near Rhino Circle, Alkapuri, Vadodara 390007",
+      "focus": "Corporate IT Solutions & Custom Software Development",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "SQL",
+        "IT Support"
+      ],
+      "fresherRoles": "Junior Software Developer, IT Trainee",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Quickstart%20Resource%20Management%20Vadodara"
+    },
+    {
+      "name": "IT CG Solutions Pvt. Ltd.",
+      "tier": "Small / Startup",
+      "area": "Alkapuri, Vadodara",
+      "address": "Alkapuri, Vadodara, Gujarat 390007",
+      "focus": "Business Software Applications & IT Consultancy",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "SQL",
+        "Java"
+      ],
+      "fresherRoles": "Junior Developer, Software Support Trainee",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=IT%20CG%20Solutions%20Vadodara"
+    },
+    {
+      "name": "NRS Infoways",
+      "tier": "Small / Startup",
+      "area": "Sayajigunj, Vadodara",
+      "address": "Opposite BBC Tower, Sayajigunj, Vadodara",
+      "focus": "Website Design, Custom Software & Digital Solutions",
+      "techStack": [
+        "Web Dev",
+        "UI/UX",
+        "PHP",
+        "JavaScript"
+      ],
+      "fresherRoles": "Web Design Intern, Junior Web Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=NRS%20Infoways%20Vadodara"
+    },
+    {
+      "name": "Softtechies",
+      "tier": "Small / Startup",
+      "area": "Karelibaug / Waghodia Rd, Vadodara",
+      "address": "Karelibaug, Vadodara, Gujarat",
+      "focus": "Cloud Business Software, Billing & Order Management Systems",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "SQL",
+        "Cloud"
+      ],
+      "fresherRoles": "Junior Web Developer, Software Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Softtechies%20Vadodara"
+    },
+    {
+      "name": "Omkar Technology",
+      "tier": "Small / Startup",
+      "area": "Karelibaug, Vadodara",
+      "address": "Karelibaug, Vadodara, Gujarat",
+      "focus": "IT Infrastructure, Networking & Custom Software Services",
+      "techStack": [
+        "IT Support",
+        "Web Dev",
+        "SQL",
+        "Networking"
+      ],
+      "fresherRoles": "IT Trainee, Junior Support & Web Executive",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Omkar%20Technology%20Vadodara"
+    },
+    {
+      "name": "Inbox Infotech",
+      "tier": "Small / Startup",
+      "area": "Alkapuri, Vadodara",
+      "address": "3rd Floor, Alkapuri, Vadodara 390007",
+      "focus": "Web Design, Mobile Apps & Digital Engineering",
+      "techStack": [
+        "Web Dev",
+        "UI/UX",
+        "Mobile",
+        "JavaScript"
+      ],
+      "fresherRoles": "Web / UI-UX Student Intern, Junior Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Inbox%20Infotech%20Vadodara"
+    },
+    {
+      "name": "Atechstar",
+      "tier": "Small / Startup",
+      "area": "Alkapuri, Vadodara",
+      "address": "Alkapuri, Vadodara, Gujarat 390007",
+      "focus": "Web Design, Software Engineering & Digital Tech",
+      "techStack": [
+        "Web Dev",
+        "Full-Stack",
+        "UI/UX",
+        "React"
+      ],
+      "fresherRoles": "Frontend / Web Design Intern, Junior Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Atechstar%20Vadodara"
+    },
+    {
+      "name": "Dev Information Technology (DEV IT)",
+      "tier": "Mid-Size IT",
+      "area": "Alkapuri / Gujarat",
+      "address": "Vadodara / Ahmedabad Region, Gujarat",
+      "focus": "Enterprise Cloud, AI, Microsoft Stack & Digital Transformation",
+      "techStack": [
+        "Full-Stack",
+        "Python",
+        "Cloud",
+        "Data Analytics",
+        ".NET"
+      ],
+      "fresherRoles": "Trainee Software Engineer, Cloud/Data Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.devitpl.com/careers/"
+    },
+    {
+      "name": "Vrinsoft Technology",
+      "tier": "Mid-Size IT",
+      "area": "Alkapuri / Gujarat",
+      "address": "Vadodara / Gujarat Tech Corridor",
+      "focus": "Mobile Apps, Full-Stack Web & UI/UX Engineering",
+      "techStack": [
+        "MERN",
+        "React",
+        "Node.js",
+        "UI/UX",
+        "Flutter"
+      ],
+      "fresherRoles": "Junior Web/App Developer, UI/UX Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.vrinsofts.com/careers/"
+    },
+    {
+      "name": "Eliteevince Technologies",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Custom Web/Mobile Software, React & Python Engineering",
+      "techStack": [
+        "MERN",
+        "React",
+        "Python",
+        "Full-Stack",
+        "QA"
+      ],
+      "fresherRoles": "SDE Intern, QA Testing Intern, Junior Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.eliteevince.com/"
+    },
+    {
+      "name": "eAspire Technolabs",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Custom Software Development & Web Application Services",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "React",
+        "Python"
+      ],
+      "fresherRoles": "Junior Software Developer, Software Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=eAspire%20Technolabs%20Vadodara"
+    },
+    {
+      "name": "Reva Infotech Pvt. Ltd.",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Software Development & Digital Technology Services",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "JavaScript",
+        "SQL"
+      ],
+      "fresherRoles": "Technical Intern, Junior Software Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Reva%20Infotech%20Vadodara"
+    },
+    {
+      "name": "Digisculpt Technologies Pvt. Ltd.",
+      "tier": "Small / Startup",
+      "area": "Vadsar, Vadodara",
+      "address": "Vadsar, Vadodara, Gujarat",
+      "focus": "HR-Tech Software, Web Platforms & Digital Analytics",
+      "techStack": [
+        "Web Dev",
+        "Data Analytics",
+        "UI/UX",
+        "Frontend"
+      ],
+      "fresherRoles": "Web / Analytics Intern, Junior Executive",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Digisculpt%20Technologies%20Vadodara"
+    },
+    {
+      "name": "Speridian Technologies",
+      "tier": "Mid-Size IT",
+      "area": "Vadodara / India",
+      "address": "Vadodara Regional Presence, Gujarat",
+      "focus": "IT Consulting, Cloud, CRM & Digital Transformation",
+      "techStack": [
+        "Full-Stack",
+        "Python",
+        "Data Analytics",
+        "Cloud",
+        "Java"
+      ],
+      "fresherRoles": "Associate Software Engineer, Graduate Trainee",
+      "offersInternship": true,
+      "careersUrl": "https://www.speridian.com/careers/"
+    },
+    {
+      "name": "Huptech Web",
+      "tier": "Small / Startup",
+      "area": "Vadodara / Gujarat",
+      "address": "Vadodara / Gujarat",
+      "focus": "Custom Web Applications, SaaS & E-Commerce Platforms",
+      "techStack": [
+        "MERN",
+        "React",
+        "Node.js",
+        "Full-Stack",
+        "UI/UX"
+      ],
+      "fresherRoles": "Junior Web Developer, React/MERN Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.huptechweb.com/careers/"
+    },
+    {
+      "name": "Webmantra Business Solutions",
+      "tier": "Small / Startup",
+      "area": "Atladara, Vadodara",
+      "address": "Atladara, Vadodara, Gujarat",
+      "focus": "SME Web Development, Software & Digital Business Solutions",
+      "techStack": [
+        "Web Dev",
+        "Full-Stack",
+        "UI/UX",
+        "PHP"
+      ],
+      "fresherRoles": "Web Developer Intern, Junior Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Webmantra%20Vadodara"
+    },
+    {
+      "name": "HD Infosys & Automation",
+      "tier": "Small / Startup",
+      "area": "Atladara, Vadodara",
+      "address": "Atladara, Vadodara, Gujarat",
+      "focus": "Business Automation Software & IT Solutions",
+      "techStack": [
+        "Python",
+        "SQL",
+        "Web Dev",
+        "Automation"
+      ],
+      "fresherRoles": "Junior Automation / Software Trainee",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=HD%20Infosys%20Vadodara"
+    },
+    {
+      "name": "VTechLabs",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Web/Mobile Software Development & Student Live-Project Internships",
+      "techStack": [
+        "Full-Stack",
+        "Python",
+        "React",
+        "QA",
+        "Mobile"
+      ],
+      "fresherRoles": "Summer / Final-Year IT Student Internship",
+      "offersInternship": true,
+      "careersUrl": "https://vtechlabs.com/"
+    },
+    {
+      "name": "UDaaann IT Solutions",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Python, Web Apps & Custom IT Development",
+      "techStack": [
+        "Python",
+        "Full-Stack",
+        "Web Dev",
+        "API"
+      ],
+      "fresherRoles": "Python Developer Intern, Junior Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=UDaaann%20IT%20Solutions%20Vadodara"
+    },
+    {
+      "name": "7hills Cyberwall",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Cybersecurity, UI/UX Design & Web Engineering",
+      "techStack": [
+        "UI/UX",
+        "Figma",
+        "Web Dev",
+        "Security"
+      ],
+      "fresherRoles": "UI/UX Design Intern, Junior Security/Web Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=7hills%20Cyberwall%20Vadodara"
+    },
+    {
+      "name": "ZPlus Solution",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Mobile Apps, Software Testing & Custom Web Solutions",
+      "techStack": [
+        "QA",
+        "Full-Stack",
+        "Mobile",
+        "Web Dev"
+      ],
+      "fresherRoles": "QA Testing Intern, Junior Android/Web Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=ZPlus%20Solution%20Vadodara"
+    },
+    {
+      "name": "Bitrix Infotech Pvt. Ltd.",
+      "tier": "Small / Startup",
+      "area": "Akota, Vadodara",
+      "address": "Akota, Vadodara, Gujarat",
+      "focus": "Web & Software Product Development",
+      "techStack": [
+        "Full-Stack",
+        "Web Dev",
+        "JavaScript",
+        "SQL"
+      ],
+      "fresherRoles": "Junior Web Developer, Software Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Bitrix%20Infotech%20Vadodara"
+    },
+    {
+      "name": "Opula Software Development",
+      "tier": "Small / Startup",
+      "area": "Akota, Vadodara",
+      "address": "Akota, Vadodara, Gujarat",
+      "focus": "Custom Desktop & Web Software Applications",
+      "techStack": [
+        "Full-Stack",
+        ".NET",
+        "SQL",
+        "Web Dev"
+      ],
+      "fresherRoles": "Junior Software Developer, Trainee Programmer",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Opula%20Software%20Vadodara"
+    },
+    {
+      "name": "Instance IT Solutions",
+      "tier": "Small / Startup",
+      "area": "Akota, Vadodara",
+      "address": "Akota, Vadodara, Gujarat",
+      "focus": "E-Commerce, Web Development & Digital Tech",
+      "techStack": [
+        "Web Dev",
+        "Full-Stack",
+        "UI/UX",
+        "JavaScript"
+      ],
+      "fresherRoles": "Web Developer Intern, Junior Frontend Dev",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Instance%20IT%20Solutions%20Vadodara"
+    },
+    {
+      "name": "Logical Wings Infoweb",
+      "tier": "Small / Startup",
+      "area": "Vadodara, Gujarat",
+      "address": "Vadodara, Gujarat",
+      "focus": "Enterprise Web Software, Angular, PHP & Cloud Solutions",
+      "techStack": [
+        "Full-Stack",
+        "Angular",
+        "PHP",
+        "MySQL",
+        "GCP"
+      ],
+      "fresherRoles": "Junior Full-Stack Developer, Web Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Logical%20Wings%20Infoweb%20Vadodara"
+    },
+    {
+      "name": "Hitchha Solutions Pvt. Ltd.",
+      "tier": "Small / Startup",
+      "area": "Vadodara (Hybrid), Gujarat",
+      "address": "Vadodara / Gujarat",
+      "focus": "AI, Business Analytics & Digital Tech Solutions",
+      "techStack": [
+        "Data Analytics",
+        "Python",
+        "AI/ML",
+        "SQL"
+      ],
+      "fresherRoles": "AI & Business Analytics Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.linkedin.com/search/results/companies/?keywords=Hitchha%20Solutions"
+    },
+    {
+      "name": "Arth Technology (Corporate)",
+      "tier": "Small / Startup",
+      "area": "Sarabhai Road / New VIP Road, Vadodara",
+      "address": "Sarabhai Road / Earth Icon, New VIP Road, Vadodara 390019",
+      "focus": "Custom ERP, CRM, Mobile Apps & Business Automation",
+      "techStack": [
+        "Full-Stack",
+        "Python",
+        "React",
+        "ERP/CRM",
+        "Mobile"
+      ],
+      "fresherRoles": "ERP/Web Developer Intern, Junior Software Developer",
+      "offersInternship": true,
+      "careersUrl": "https://arthtechnology.com/"
+    },
+    {
+      "name": "Ecosmob Technologies",
+      "tier": "Mid-Size IT",
+      "area": "Gotri / Gujarat",
+      "address": "Vadodara / Gujarat Tech Corridor",
+      "focus": "VoIP, Real-Time Communications & Custom Software",
+      "techStack": [
+        "Python",
+        "Node.js",
+        "Full-Stack",
+        "WebRTC",
+        "AI/ML"
+      ],
+      "fresherRoles": "Trainee Software Engineer, Junior Developer",
+      "offersInternship": true,
+      "careersUrl": "https://www.ecosmob.com/careers/"
+    },
+    {
+      "name": "Volansys Technologies (ACL Digital)",
+      "tier": "Mid-Size IT",
+      "area": "Gotri / Gujarat",
+      "address": "Vadodara / Gujarat Tech Corridor",
+      "focus": "IoT, Embedded, Cloud & Digital Product Engineering",
+      "techStack": [
+        "Python",
+        "Full-Stack",
+        "Cloud",
+        "IoT",
+        "Data Analytics"
+      ],
+      "fresherRoles": "Trainee Engineer, Software Intern",
+      "offersInternship": true,
+      "careersUrl": "https://www.acldigital.com/careers"
+    }
+  ]
+}

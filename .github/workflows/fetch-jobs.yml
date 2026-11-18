@@ -1,0 +1,51 @@
+name: Fetch Vadodara IT Fresher Jobs
+
+on:
+  schedule:
+    # Runs every 2 hours during IST active hours: 8:30 AM to 8:30 PM IST (7x daily)
+    - cron: '0 3,5,7,9,11,13,15 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch Vadodara IT fresher jobs and send Gmail alert for new listings
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+          DASHBOARD_URL: ${{ secrets.DASHBOARD_URL }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          JOOBLE_API_KEY: ${{ secrets.JOOBLE_API_KEY }}
+          INCLUDE_REMOTE_INDIA: ${{ vars.INCLUDE_REMOTE_INDIA || 'true' }}
+        run: npm run fetch
+
+      - name: Commit updated dashboard data if changed
+        run: |
+          git config user.name "rat-racer-bdq-bot"
+          git config user.email "rat-racer-bdq-bot@users.noreply.github.com"
+          git add docs/data/jobs.json docs/data/company-reviews.json data/expired-jobs.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(jobs): update verified Vadodara & Remote IT fresher listings"
+            git push
+          else
+            echo "No changes in job data"
+          fi

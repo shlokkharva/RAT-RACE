@@ -1,0 +1,245 @@
+{
+  "updatedAt": "2026-11-18T10:50:58.048Z",
+  "companies": {
+    "codeatrix": {
+      "company": "Codeatrix",
+      "verified": true,
+      "verifiedVia": "website",
+      "websiteUrl": "https://codeatrix.com/",
+      "hasPhysicalAddress": true,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Codeatrix",
+      "websiteCheckedAt": "2026-11-18T10:23:22.114Z",
+      "fetchedAt": "2026-11-18T10:23:22.114Z"
+    },
+    "unicraft tech": {
+      "company": "Unicraft Tech",
+      "verified": true,
+      "verifiedVia": "website",
+      "websiteUrl": "https://unicrafttech.in/",
+      "hasPhysicalAddress": true,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Unicraft%20Tech",
+      "websiteCheckedAt": "2026-11-18T10:23:23.823Z",
+      "fetchedAt": "2026-11-18T10:23:23.823Z"
+    },
+    "evonexis": {
+      "company": "EvoNexis",
+      "verified": true,
+      "verifiedVia": "website",
+      "websiteUrl": "https://evonexis.com/",
+      "hasPhysicalAddress": true,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=EvoNexis",
+      "websiteCheckedAt": "2026-11-18T10:23:26.261Z",
+      "fetchedAt": "2026-11-18T10:23:26.261Z"
+    },
+    "maa software solutions": {
+      "company": "Maa Software Solutions",
+      "verified": true,
+      "verifiedVia": "website",
+      "websiteUrl": "https://maasoftwaresolutions.in/",
+      "hasPhysicalAddress": true,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Maa%20Software%20Solutions",
+      "websiteCheckedAt": "2026-11-18T10:23:50.809Z",
+      "fetchedAt": "2026-11-18T10:23:50.809Z"
+    },
+    "sclaria": {
+      "company": "Sclaria",
+      "verified": true,
+      "verifiedVia": "website",
+      "websiteUrl": "https://www.sclaria.com/",
+      "hasPhysicalAddress": true,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Sclaria",
+      "websiteCheckedAt": "2026-11-18T10:23:51.078Z",
+      "fetchedAt": "2026-11-18T10:23:51.078Z"
+    },
+    "opal code": {
+      "company": "Opal Code",
+      "verified": true,
+      "verifiedVia": "website",
+      "websiteUrl": "https://opalcode.in/",
+      "hasPhysicalAddress": true,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Opal%20Code",
+      "websiteCheckedAt": "2026-11-18T10:23:57.325Z",
+      "fetchedAt": "2026-11-18T10:23:57.325Z"
+    },
+    "bookmywarehouse": {
+      "company": "Bookmywarehouse",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Bookmywarehouse",
+      "websiteCheckedAt": "2026-11-18T10:44:19.441Z",
+      "fetchedAt": "2026-11-18T10:44:19.441Z"
+    },
+    "pixamentory online services": {
+      "company": "Pixamentory Online Services",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Pixamentory%20Online%20Services",
+      "websiteCheckedAt": "2026-11-18T10:44:20.295Z",
+      "fetchedAt": "2026-11-18T10:44:20.295Z"
+    },
+    "qubixo": {
+      "company": "Qubixo",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Qubixo",
+      "websiteCheckedAt": "2026-11-18T10:44:31.151Z",
+      "fetchedAt": "2026-11-18T10:44:31.152Z"
+    },
+    "infinexa learning solutions": {
+      "company": "INFINEXA LEARNING SOLUTIONS PRIVATE LIMITED",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=INFINEXA%20LEARNING%20SOLUTIONS%20PRIVATE%20LIMITED",
+      "websiteCheckedAt": "2026-11-18T10:44:33.490Z",
+      "fetchedAt": "2026-11-18T10:44:33.490Z"
+    },
+    "emoolar technology": {
+      "company": "Emoolar Technology Private Limited",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Emoolar%20Technology%20Private%20Limited",
+      "websiteCheckedAt": "2026-11-18T10:44:34.059Z",
+      "fetchedAt": "2026-11-18T10:44:34.059Z"
+    },
+    "rigbuzz": {
+      "company": "Rigbuzz",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Rigbuzz",
+      "websiteCheckedAt": "2026-11-18T10:44:37.533Z",
+      "fetchedAt": "2026-11-18T10:44:37.533Z"
+    },
+    "ai xplore": {
+      "company": "AI Xplore",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=AI%20Xplore",
+      "websiteCheckedAt": "2026-11-18T10:44:47.508Z",
+      "fetchedAt": "2026-11-18T10:44:47.508Z"
+    },
+    "wikasta business and technical solutions": {
+      "company": "Wikasta Business and Technical Solutions Pvt. Ltd.",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Wikasta%20Business%20and%20Technical%20Solutions%20Pvt.%20Ltd.",
+      "websiteCheckedAt": "2026-11-18T10:44:47.895Z",
+      "fetchedAt": "2026-11-18T10:44:47.895Z"
+    },
+    "abuem workifying": {
+      "company": "Abuem Workifying LLP",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Abuem%20Workifying%20LLP",
+      "websiteCheckedAt": "2026-11-18T10:44:48.614Z",
+      "fetchedAt": "2026-11-18T10:44:48.614Z"
+    },
+    "zenotalent": {
+      "company": "Zenotalent",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Zenotalent",
+      "websiteCheckedAt": "2026-11-18T10:44:50.871Z",
+      "fetchedAt": "2026-11-18T10:44:50.871Z"
+    },
+    "flatuiux": {
+      "company": "FlatUIUX",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=FlatUIUX",
+      "websiteCheckedAt": "2026-11-18T10:44:51.461Z",
+      "fetchedAt": "2026-11-18T10:44:51.461Z"
+    },
+    "intelleqacademy": {
+      "company": "IntelleQAcademy",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=IntelleQAcademy",
+      "websiteCheckedAt": "2026-11-18T10:44:54.293Z",
+      "fetchedAt": "2026-11-18T10:44:54.293Z"
+    },
+    "vortizo ai": {
+      "company": "Vortizo AI",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Vortizo%20AI",
+      "websiteCheckedAt": "2026-11-18T10:45:04.134Z",
+      "fetchedAt": "2026-11-18T10:45:04.134Z"
+    },
+    "rewyoo com": {
+      "company": "Rewyoo.com",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Rewyoo.com",
+      "websiteCheckedAt": "2026-11-18T10:45:05.415Z",
+      "fetchedAt": "2026-11-18T10:45:05.415Z"
+    },
+    "closekart": {
+      "company": "CloseKart Private Limited",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=CloseKart%20Private%20Limited",
+      "websiteCheckedAt": "2026-11-18T10:45:07.861Z",
+      "fetchedAt": "2026-11-18T10:45:07.861Z"
+    },
+    "reliabuilds": {
+      "company": "ReliaBuilds",
+      "verified": true,
+      "verifiedVia": "website",
+      "websiteUrl": "https://www.reliabuilds.com/",
+      "hasPhysicalAddress": true,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=ReliaBuilds",
+      "websiteCheckedAt": "2026-11-18T10:50:54.403Z",
+      "fetchedAt": "2026-11-18T10:50:54.403Z"
+    },
+    "samridhi service design": {
+      "company": "Samridhi Service Design",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Samridhi%20Service%20Design",
+      "websiteCheckedAt": "2026-11-18T10:50:55.618Z",
+      "fetchedAt": "2026-11-18T10:50:55.618Z"
+    },
+    "estate plus crm": {
+      "company": "Estate Plus CRM",
+      "verified": false,
+      "verifiedVia": null,
+      "websiteUrl": null,
+      "hasPhysicalAddress": false,
+      "reviewsUrl": "https://www.glassdoor.co.in/Search/results.htm?keyword=Estate%20Plus%20CRM",
+      "websiteCheckedAt": "2026-11-18T10:50:58.047Z",
+      "fetchedAt": "2026-11-18T10:50:58.047Z"
+    }
+  }
+}
