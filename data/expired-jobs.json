@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T21:15:47.323Z",
+  "updatedAt": "2026-11-19T21:17:11.363Z",
   "expired": [
     {
       "id": "1a12d91f2a8b1bbf",
@@ -14,6 +14,13 @@
       "company": "Codeatrix",
       "reason": "Deadline passed",
       "markedAt": "2026-11-18T21:15:47.322Z"
+    },
+    {
+      "id": "d2085db53c895f99",
+      "title": "Data Science Internship",
+      "company": "Sclaria",
+      "reason": "Deadline passed",
+      "markedAt": "2026-11-19T21:17:11.363Z"
     }
   ]
 }

@@ -8,14 +8,14 @@
       "Full-Stack",
       "Python"
     ],
-    "lastUpdated": "2026-11-19T11:23:27.774Z",
-    "totalJobs": 25,
+    "lastUpdated": "2026-11-19T21:17:10.220Z",
+    "totalJobs": 24,
     "newInLastRun": 0,
     "sourcesStatus": {
       "Vadodara Company Careers": {
         "enabled": true,
         "status": "ok",
-        "rawCount": 17
+        "rawCount": 15
       },
       "Google Jobs (JSearch)": {
         "enabled": false,
@@ -26,17 +26,17 @@
       "Himalayas": {
         "enabled": true,
         "status": "ok",
-        "rawCount": 1
+        "rawCount": 0
       },
       "Jobicy": {
         "enabled": true,
         "status": "ok",
-        "rawCount": 25
+        "rawCount": 19
       },
       "Remotive (Remote)": {
         "enabled": true,
         "status": "ok",
-        "rawCount": 30
+        "rawCount": 27
       },
       "Adzuna": {
         "enabled": false,
@@ -86,8 +86,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-19T11:23:27.774Z",
-      "lastVerifiedAt": "2026-11-19T11:23:27.876Z"
+      "lastSeenAt": "2026-11-19T21:17:10.220Z",
+      "lastVerifiedAt": "2026-11-19T21:17:10.304Z"
     },
     {
       "id": "58804d6e1d3c8a1c",
@@ -121,7 +121,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-19T11:23:27.876Z"
+      "lastVerifiedAt": "2026-11-19T21:17:10.304Z"
     },
     {
       "id": "897c0c041d963fb1",
@@ -156,8 +156,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-19T11:23:27.774Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.071Z"
+      "lastSeenAt": "2026-11-19T21:17:10.220Z",
+      "lastVerifiedAt": "2026-11-19T21:17:10.609Z"
     },
     {
       "id": "f67953a1a52af1a6",
@@ -191,7 +191,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.071Z"
+      "lastVerifiedAt": "2026-11-19T21:17:10.609Z"
     },
     {
       "id": "1fbfe13b79035525",
@@ -226,8 +226,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-19T11:23:27.774Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.102Z"
+      "lastSeenAt": "2026-11-19T21:17:10.220Z",
+      "lastVerifiedAt": "2026-11-19T21:17:10.686Z"
     },
     {
       "id": "255a07a515996072",
@@ -261,8 +261,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-19T11:23:27.774Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.129Z"
+      "lastSeenAt": "2026-11-19T21:17:10.220Z",
+      "lastVerifiedAt": "2026-11-19T21:17:10.752Z"
     },
     {
       "id": "5eed40f6043f4a79",
@@ -296,8 +296,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-19T11:23:27.774Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.170Z"
+      "lastSeenAt": "2026-11-19T21:17:10.220Z",
+      "lastVerifiedAt": "2026-11-19T21:17:10.817Z"
     },
     {
       "id": "31e63f2accaf7609",
@@ -334,7 +334,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.245Z"
+      "lastVerifiedAt": "2026-11-19T21:17:10.890Z"
     },
     {
       "id": "cfb5057a488678b1",
@@ -370,8 +370,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-19T11:23:27.774Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.536Z"
+      "lastSeenAt": "2026-11-19T21:17:10.220Z",
+      "lastVerifiedAt": "2026-11-19T21:17:11.362Z"
     },
     {
       "id": "580b5c4605a690de",
@@ -405,7 +405,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.536Z"
+      "lastVerifiedAt": "2026-11-19T21:17:11.362Z"
     },
     {
       "id": "831f1733fe3af4e1",
@@ -439,7 +439,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.536Z"
+      "lastVerifiedAt": "2026-11-19T21:17:11.362Z"
     },
     {
       "id": "5fbf4b8ee7a431d7",
@@ -473,41 +473,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.536Z"
-    },
-    {
-      "id": "d2085db53c895f99",
-      "title": "Data Science Internship",
-      "company": "Sclaria",
-      "location": "Remote (Work From Home)",
-      "isVadodara": false,
-      "isRemote": true,
-      "workMode": "Remote",
-      "categories": [
-        "data-analyst"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship",
-      "fresherScore": 75,
-      "salary": "₹24,000 - ₹24,000 /month",
-      "source": "Unstop",
-      "applyUrl": "https://unstop.com/internships/data-science-internship-sclaria-1796774",
-      "snippet": "",
-      "postedDate": "2026-11-05",
-      "deadlineAt": "2026-11-19T23:59:59+05:30",
-      "discoveredAt": "2026-11-18T10:23:58.587Z",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "website",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Sclaria",
-        "websiteUrl": "https://www.sclaria.com/",
-        "hasPhysicalAddress": true,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.536Z"
+      "lastVerifiedAt": "2026-11-19T21:17:11.362Z"
     },
     {
       "id": "b262f92f755065aa",
@@ -541,7 +507,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.536Z"
+      "lastVerifiedAt": "2026-11-19T21:17:11.363Z"
     },
     {
       "id": "44a0c8db3ef62c35",
@@ -575,7 +541,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.536Z"
+      "lastVerifiedAt": "2026-11-19T21:17:11.363Z"
     },
     {
       "id": "abc8672310cac38c",
@@ -609,7 +575,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.536Z"
+      "lastVerifiedAt": "2026-11-19T21:17:11.363Z"
     },
     {
       "id": "62ecefdb09511b33",
@@ -643,7 +609,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.536Z"
+      "lastVerifiedAt": "2026-11-19T21:17:11.363Z"
     },
     {
       "id": "ee3ea5807e83e12e",
@@ -677,7 +643,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.536Z"
+      "lastVerifiedAt": "2026-11-19T21:17:11.363Z"
     },
     {
       "id": "a9c68649d3dde160",
@@ -711,7 +677,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.536Z"
+      "lastVerifiedAt": "2026-11-19T21:17:11.363Z"
     },
     {
       "id": "101e3d6972b3d94d",
@@ -748,7 +714,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.962Z"
+      "lastVerifiedAt": "2026-11-19T21:17:11.577Z"
     },
     {
       "id": "79f88bd1bfddf47f",
@@ -782,7 +748,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T09:58:58.866Z",
-      "lastVerifiedAt": "2026-11-19T11:23:28.962Z"
+      "lastVerifiedAt": "2026-11-19T21:17:11.577Z"
     },
     {
       "id": "65e5b46f88fd88f4",
@@ -816,7 +782,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": null,
-      "lastVerifiedAt": "2026-11-19T11:23:28.962Z"
+      "lastVerifiedAt": "2026-11-19T21:17:11.577Z"
     },
     {
       "id": "127b688c9ad5f38f",
@@ -850,7 +816,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": "2026-11-27T15:57:23+05:30",
-      "lastVerifiedAt": "2026-11-19T11:23:28.962Z"
+      "lastVerifiedAt": "2026-11-19T21:17:11.577Z"
     },
     {
       "id": "1e4bec3584d5ccdb",
@@ -884,7 +850,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": null,
-      "lastVerifiedAt": "2026-11-19T11:23:28.962Z"
+      "lastVerifiedAt": "2026-11-19T21:17:11.577Z"
     },
     {
       "id": "234616ebcc563687",
@@ -920,8 +886,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-19T11:23:27.774Z",
-      "lastVerifiedAt": "2026-11-19T11:23:29.217Z",
+      "lastSeenAt": "2026-11-19T21:17:10.220Z",
+      "lastVerifiedAt": "2026-11-19T21:17:12.128Z",
       "employerWebsite": "https://www.zignuts.com/career"
     }
   ]
