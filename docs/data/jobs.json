@@ -8,8 +8,8 @@
       "Full-Stack",
       "Python"
     ],
-    "lastUpdated": "2026-11-21T17:55:26.975Z",
-    "totalJobs": 24,
+    "lastUpdated": "2026-11-22T10:57:55.336Z",
+    "totalJobs": 23,
     "newInLastRun": 0,
     "sourcesStatus": {
       "Vadodara Company Careers": {
@@ -31,7 +31,7 @@
       "Jobicy": {
         "enabled": true,
         "status": "ok",
-        "rawCount": 9
+        "rawCount": 17
       },
       "Remotive (Remote)": {
         "enabled": true,
@@ -72,7 +72,7 @@
       "source": "Atyantik Technologies Careers",
       "applyUrl": "https://atyantik.com/careers/",
       "snippet": "6-month on-site Internship Programme at Atyantik Technologies, Vadodara for final-year students and graduates.",
-      "postedDate": "2026-11-21",
+      "postedDate": "2026-11-22",
       "deadlineAt": null,
       "discoveredAt": "2026-11-18T21:15:46.209Z",
       "employerWebsite": "https://atyantik.com/careers/",
@@ -86,8 +86,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-21T17:55:26.975Z",
-      "lastVerifiedAt": "2026-11-21T17:55:27.044Z"
+      "lastSeenAt": "2026-11-22T10:57:55.336Z",
+      "lastVerifiedAt": "2026-11-22T10:57:55.385Z"
     },
     {
       "id": "58804d6e1d3c8a1c",
@@ -121,7 +121,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-21T17:55:27.044Z"
+      "lastVerifiedAt": "2026-11-22T10:57:55.385Z"
     },
     {
       "id": "897c0c041d963fb1",
@@ -142,7 +142,7 @@
       "source": "MaMo Technolabs Careers",
       "applyUrl": "https://mamotechnolabs.com/internship/",
       "snippet": "Free AICTE-approved student IT internship program on real projects under mentorship at MaMo Technolabs, Vadodara.",
-      "postedDate": "2026-11-21",
+      "postedDate": "2026-11-22",
       "deadlineAt": null,
       "discoveredAt": "2026-11-18T21:15:46.209Z",
       "employerWebsite": "https://mamotechnolabs.com/internship/",
@@ -156,8 +156,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-21T17:55:26.975Z",
-      "lastVerifiedAt": "2026-11-21T17:55:27.319Z"
+      "lastSeenAt": "2026-11-22T10:57:55.336Z",
+      "lastVerifiedAt": "2026-11-22T10:57:55.662Z"
     },
     {
       "id": "f67953a1a52af1a6",
@@ -191,7 +191,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-21T17:55:27.320Z"
+      "lastVerifiedAt": "2026-11-22T10:57:55.662Z"
     },
     {
       "id": "1fbfe13b79035525",
@@ -212,7 +212,7 @@
       "source": "Trevita Infotech Careers",
       "applyUrl": "https://www.trevitainfotech.com/career",
       "snippet": "4-month Full-Stack Web Development Internship Programme at Trevita Infotech, Vadodara.",
-      "postedDate": "2026-11-21",
+      "postedDate": "2026-11-22",
       "deadlineAt": null,
       "discoveredAt": "2026-11-18T10:45:09.445Z",
       "employerWebsite": "https://www.trevitainfotech.com/career",
@@ -226,8 +226,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-21T17:55:26.975Z",
-      "lastVerifiedAt": "2026-11-21T17:55:27.482Z"
+      "lastSeenAt": "2026-11-22T10:57:55.336Z",
+      "lastVerifiedAt": "2026-11-22T10:57:55.702Z"
     },
     {
       "id": "5eed40f6043f4a79",
@@ -247,7 +247,7 @@
       "source": "Trevita Infotech Careers",
       "applyUrl": "https://www.trevitainfotech.com/career",
       "snippet": "4-month UI/UX & Graphic Design Internship Programme at Trevita Infotech, Alkapuri, Vadodara.",
-      "postedDate": "2026-11-21",
+      "postedDate": "2026-11-22",
       "deadlineAt": null,
       "discoveredAt": "2026-11-18T10:45:09.445Z",
       "employerWebsite": "https://www.trevitainfotech.com/career",
@@ -261,8 +261,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-21T17:55:26.975Z",
-      "lastVerifiedAt": "2026-11-21T17:55:27.515Z"
+      "lastSeenAt": "2026-11-22T10:57:55.336Z",
+      "lastVerifiedAt": "2026-11-22T10:57:55.737Z"
     },
     {
       "id": "31e63f2accaf7609",
@@ -299,7 +299,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-21T17:55:27.558Z"
+      "lastVerifiedAt": "2026-11-22T10:57:55.781Z"
     },
     {
       "id": "255a07a515996072",
@@ -319,7 +319,7 @@
       "source": "Trevita Infotech Careers",
       "applyUrl": "https://www.trevitainfotech.com/career",
       "snippet": "Live-project 6-month Software Development Internship at Trevita Infotech, Alkapuri, Vadodara (Full Stack, Web & Software Dev).",
-      "postedDate": "2026-11-21",
+      "postedDate": "2026-11-22",
       "deadlineAt": null,
       "discoveredAt": "2026-11-18T10:45:09.445Z",
       "employerWebsite": "https://www.trevitainfotech.com/career",
@@ -333,8 +333,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-21T17:55:26.975Z",
-      "lastVerifiedAt": "2026-11-21T17:55:27.590Z"
+      "lastSeenAt": "2026-11-22T10:57:55.336Z",
+      "lastVerifiedAt": "2026-11-22T10:57:55.809Z"
     },
     {
       "id": "cfb5057a488678b1",
@@ -356,7 +356,7 @@
       "source": "Helios Solutions Careers",
       "applyUrl": "https://www.heliossolutions.co/connect-with-us/apply-for-internship/",
       "snippet": "Direct IT Internship application portal at Helios Solutions, Vadodara for recent graduates and students.",
-      "postedDate": "2026-11-21",
+      "postedDate": "2026-11-22",
       "deadlineAt": null,
       "discoveredAt": "2026-11-18T10:45:09.445Z",
       "employerWebsite": "https://www.heliossolutions.co/connect-with-us/apply-for-internship/",
@@ -370,8 +370,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-21T17:55:26.975Z",
-      "lastVerifiedAt": "2026-11-21T17:55:28.029Z"
+      "lastSeenAt": "2026-11-22T10:57:55.336Z",
+      "lastVerifiedAt": "2026-11-22T10:57:56.180Z"
     },
     {
       "id": "580b5c4605a690de",
@@ -405,7 +405,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-21T17:55:28.029Z"
+      "lastVerifiedAt": "2026-11-22T10:57:56.180Z"
     },
     {
       "id": "831f1733fe3af4e1",
@@ -439,7 +439,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-21T17:55:28.029Z"
+      "lastVerifiedAt": "2026-11-22T10:57:56.180Z"
     },
     {
       "id": "5fbf4b8ee7a431d7",
@@ -473,41 +473,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-21T17:55:28.029Z"
-    },
-    {
-      "id": "b262f92f755065aa",
-      "title": "Data Science Internship",
-      "company": "Opal Code",
-      "location": "Remote (Work From Home)",
-      "isVadodara": false,
-      "isRemote": true,
-      "workMode": "Remote",
-      "categories": [
-        "data-analyst"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship",
-      "fresherScore": 75,
-      "salary": "₹1,000 - ₹15,000 /month",
-      "source": "Unstop",
-      "applyUrl": "https://unstop.com/internships/data-science-internship-opal-code-1801847",
-      "snippet": "",
-      "postedDate": "2026-11-08",
-      "deadlineAt": "2026-11-22T00:00:00+05:30",
-      "discoveredAt": "2026-11-18T10:23:58.587Z",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "website",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Opal%20Code",
-        "websiteUrl": "https://opalcode.in/",
-        "hasPhysicalAddress": true,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-21T17:55:28.029Z"
+      "lastVerifiedAt": "2026-11-22T10:57:56.180Z"
     },
     {
       "id": "44a0c8db3ef62c35",
@@ -541,7 +507,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-21T17:55:28.029Z"
+      "lastVerifiedAt": "2026-11-22T10:57:56.181Z"
     },
     {
       "id": "abc8672310cac38c",
@@ -575,7 +541,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-21T17:55:28.029Z"
+      "lastVerifiedAt": "2026-11-22T10:57:56.181Z"
     },
     {
       "id": "62ecefdb09511b33",
@@ -609,7 +575,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-21T17:55:28.029Z"
+      "lastVerifiedAt": "2026-11-22T10:57:56.181Z"
     },
     {
       "id": "ee3ea5807e83e12e",
@@ -643,7 +609,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-21T17:55:28.029Z"
+      "lastVerifiedAt": "2026-11-22T10:57:56.181Z"
     },
     {
       "id": "a9c68649d3dde160",
@@ -677,7 +643,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-21T17:55:28.029Z"
+      "lastVerifiedAt": "2026-11-22T10:57:56.181Z"
     },
     {
       "id": "101e3d6972b3d94d",
@@ -714,7 +680,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-21T17:55:28.195Z"
+      "lastVerifiedAt": "2026-11-22T10:57:56.465Z"
     },
     {
       "id": "79f88bd1bfddf47f",
@@ -748,7 +714,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T09:58:58.866Z",
-      "lastVerifiedAt": "2026-11-21T17:55:28.195Z"
+      "lastVerifiedAt": "2026-11-22T10:57:56.465Z"
     },
     {
       "id": "65e5b46f88fd88f4",
@@ -782,7 +748,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": null,
-      "lastVerifiedAt": "2026-11-21T17:55:28.195Z"
+      "lastVerifiedAt": "2026-11-22T10:57:56.465Z"
     },
     {
       "id": "127b688c9ad5f38f",
@@ -816,7 +782,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": "2026-11-27T15:57:23+05:30",
-      "lastVerifiedAt": "2026-11-21T17:55:28.195Z"
+      "lastVerifiedAt": "2026-11-22T10:57:56.465Z"
     },
     {
       "id": "1e4bec3584d5ccdb",
@@ -850,7 +816,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": null,
-      "lastVerifiedAt": "2026-11-21T17:55:28.195Z"
+      "lastVerifiedAt": "2026-11-22T10:57:56.465Z"
     },
     {
       "id": "234616ebcc563687",
@@ -873,7 +839,7 @@
       "source": "Zignuts Technolab Careers",
       "applyUrl": "https://www.zignuts.com/career",
       "snippet": "Live Internship Opportunity listed on Zignuts Technolab careers page for freshers and students.",
-      "postedDate": "2026-11-21",
+      "postedDate": "2026-11-22",
       "deadlineAt": null,
       "discoveredAt": "2026-11-18T10:11:49.108Z",
       "glassdoor": {
@@ -886,8 +852,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-21T17:55:26.975Z",
-      "lastVerifiedAt": "2026-11-21T17:55:28.759Z",
+      "lastSeenAt": "2026-11-22T10:57:55.336Z",
+      "lastVerifiedAt": "2026-11-22T10:57:56.817Z",
       "employerWebsite": "https://www.zignuts.com/career"
     }
   ]
