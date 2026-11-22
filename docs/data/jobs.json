@@ -8,7 +8,7 @@
       "Full-Stack",
       "Python"
     ],
-    "lastUpdated": "2026-11-22T10:57:55.336Z",
+    "lastUpdated": "2026-11-22T18:25:55.309Z",
     "totalJobs": 23,
     "newInLastRun": 0,
     "sourcesStatus": {
@@ -86,8 +86,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-22T10:57:55.336Z",
-      "lastVerifiedAt": "2026-11-22T10:57:55.385Z"
+      "lastSeenAt": "2026-11-22T18:25:55.309Z",
+      "lastVerifiedAt": "2026-11-22T18:25:55.421Z"
     },
     {
       "id": "58804d6e1d3c8a1c",
@@ -121,7 +121,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-22T10:57:55.385Z"
+      "lastVerifiedAt": "2026-11-22T18:25:55.421Z"
     },
     {
       "id": "897c0c041d963fb1",
@@ -156,8 +156,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-22T10:57:55.336Z",
-      "lastVerifiedAt": "2026-11-22T10:57:55.662Z"
+      "lastSeenAt": "2026-11-22T18:25:55.309Z",
+      "lastVerifiedAt": "2026-11-22T18:25:55.754Z"
     },
     {
       "id": "f67953a1a52af1a6",
@@ -191,7 +191,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-22T10:57:55.662Z"
+      "lastVerifiedAt": "2026-11-22T18:25:55.754Z"
     },
     {
       "id": "1fbfe13b79035525",
@@ -226,8 +226,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-22T10:57:55.336Z",
-      "lastVerifiedAt": "2026-11-22T10:57:55.702Z"
+      "lastSeenAt": "2026-11-22T18:25:55.309Z",
+      "lastVerifiedAt": "2026-11-22T18:25:55.783Z"
     },
     {
       "id": "5eed40f6043f4a79",
@@ -261,8 +261,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-22T10:57:55.336Z",
-      "lastVerifiedAt": "2026-11-22T10:57:55.737Z"
+      "lastSeenAt": "2026-11-22T18:25:55.309Z",
+      "lastVerifiedAt": "2026-11-22T18:25:55.808Z"
     },
     {
       "id": "31e63f2accaf7609",
@@ -299,7 +299,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-22T10:57:55.781Z"
+      "lastVerifiedAt": "2026-11-22T18:25:55.850Z"
     },
     {
       "id": "255a07a515996072",
@@ -333,8 +333,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-22T10:57:55.336Z",
-      "lastVerifiedAt": "2026-11-22T10:57:55.809Z"
+      "lastSeenAt": "2026-11-22T18:25:55.309Z",
+      "lastVerifiedAt": "2026-11-22T18:25:55.880Z"
     },
     {
       "id": "cfb5057a488678b1",
@@ -370,8 +370,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-22T10:57:55.336Z",
-      "lastVerifiedAt": "2026-11-22T10:57:56.180Z"
+      "lastSeenAt": "2026-11-22T18:25:55.309Z",
+      "lastVerifiedAt": "2026-11-22T18:25:56.198Z"
     },
     {
       "id": "580b5c4605a690de",
@@ -405,7 +405,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-22T10:57:56.180Z"
+      "lastVerifiedAt": "2026-11-22T18:25:56.198Z"
     },
     {
       "id": "831f1733fe3af4e1",
@@ -439,7 +439,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-22T10:57:56.180Z"
+      "lastVerifiedAt": "2026-11-22T18:25:56.198Z"
     },
     {
       "id": "5fbf4b8ee7a431d7",
@@ -473,7 +473,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-22T10:57:56.180Z"
+      "lastVerifiedAt": "2026-11-22T18:25:56.198Z"
     },
     {
       "id": "44a0c8db3ef62c35",
@@ -507,7 +507,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-22T10:57:56.181Z"
+      "lastVerifiedAt": "2026-11-22T18:25:56.198Z"
     },
     {
       "id": "abc8672310cac38c",
@@ -541,7 +541,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-22T10:57:56.181Z"
+      "lastVerifiedAt": "2026-11-22T18:25:56.198Z"
     },
     {
       "id": "62ecefdb09511b33",
@@ -575,7 +575,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-22T10:57:56.181Z"
+      "lastVerifiedAt": "2026-11-22T18:25:56.198Z"
     },
     {
       "id": "ee3ea5807e83e12e",
@@ -609,7 +609,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-22T10:57:56.181Z"
+      "lastVerifiedAt": "2026-11-22T18:25:56.198Z"
     },
     {
       "id": "a9c68649d3dde160",
@@ -643,7 +643,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-22T10:57:56.181Z"
+      "lastVerifiedAt": "2026-11-22T18:25:56.198Z"
     },
     {
       "id": "101e3d6972b3d94d",
@@ -680,7 +680,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-22T10:57:56.465Z"
+      "lastVerifiedAt": "2026-11-22T18:25:56.854Z"
     },
     {
       "id": "79f88bd1bfddf47f",
@@ -714,7 +714,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T09:58:58.866Z",
-      "lastVerifiedAt": "2026-11-22T10:57:56.465Z"
+      "lastVerifiedAt": "2026-11-22T18:25:56.855Z"
     },
     {
       "id": "65e5b46f88fd88f4",
@@ -748,7 +748,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": null,
-      "lastVerifiedAt": "2026-11-22T10:57:56.465Z"
+      "lastVerifiedAt": "2026-11-22T18:25:56.855Z"
     },
     {
       "id": "127b688c9ad5f38f",
@@ -782,7 +782,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": "2026-11-27T15:57:23+05:30",
-      "lastVerifiedAt": "2026-11-22T10:57:56.465Z"
+      "lastVerifiedAt": "2026-11-22T18:25:56.855Z"
     },
     {
       "id": "1e4bec3584d5ccdb",
@@ -816,7 +816,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": null,
-      "lastVerifiedAt": "2026-11-22T10:57:56.465Z"
+      "lastVerifiedAt": "2026-11-22T18:25:56.855Z"
     },
     {
       "id": "234616ebcc563687",
@@ -852,8 +852,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-22T10:57:55.336Z",
-      "lastVerifiedAt": "2026-11-22T10:57:56.817Z",
+      "lastSeenAt": "2026-11-22T18:25:55.309Z",
+      "lastVerifiedAt": "2026-11-22T18:25:56.909Z",
       "employerWebsite": "https://www.zignuts.com/career"
     }
   ]
