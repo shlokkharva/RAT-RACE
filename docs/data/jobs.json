@@ -8,7 +8,7 @@
       "Full-Stack",
       "Python"
     ],
-    "lastUpdated": "2026-11-23T12:05:20.082Z",
+    "lastUpdated": "2026-11-24T00:41:11.453Z",
     "totalJobs": 23,
     "newInLastRun": 0,
     "sourcesStatus": {
@@ -26,17 +26,17 @@
       "Himalayas": {
         "enabled": true,
         "status": "ok",
-        "rawCount": 3
+        "rawCount": 1
       },
       "Jobicy": {
         "enabled": true,
         "status": "ok",
-        "rawCount": 25
+        "rawCount": 24
       },
       "Remotive (Remote)": {
         "enabled": true,
         "status": "ok",
-        "rawCount": 27
+        "rawCount": 24
       },
       "Adzuna": {
         "enabled": false,
@@ -72,7 +72,7 @@
       "source": "Atyantik Technologies Careers",
       "applyUrl": "https://atyantik.com/careers/",
       "snippet": "6-month on-site Internship Programme at Atyantik Technologies, Vadodara for final-year students and graduates.",
-      "postedDate": "2026-11-23",
+      "postedDate": "2026-11-24",
       "deadlineAt": null,
       "discoveredAt": "2026-11-18T21:15:46.209Z",
       "employerWebsite": "https://atyantik.com/careers/",
@@ -86,8 +86,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-23T12:05:20.082Z",
-      "lastVerifiedAt": "2026-11-23T12:05:20.153Z"
+      "lastSeenAt": "2026-11-24T00:41:11.453Z",
+      "lastVerifiedAt": "2026-11-24T00:41:11.542Z"
     },
     {
       "id": "58804d6e1d3c8a1c",
@@ -121,7 +121,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-23T12:05:20.153Z"
+      "lastVerifiedAt": "2026-11-24T00:41:11.542Z"
     },
     {
       "id": "897c0c041d963fb1",
@@ -142,7 +142,7 @@
       "source": "MaMo Technolabs Careers",
       "applyUrl": "https://mamotechnolabs.com/internship/",
       "snippet": "Free AICTE-approved student IT internship program on real projects under mentorship at MaMo Technolabs, Vadodara.",
-      "postedDate": "2026-11-23",
+      "postedDate": "2026-11-24",
       "deadlineAt": null,
       "discoveredAt": "2026-11-18T21:15:46.209Z",
       "employerWebsite": "https://mamotechnolabs.com/internship/",
@@ -156,8 +156,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-23T12:05:20.082Z",
-      "lastVerifiedAt": "2026-11-23T12:05:20.441Z"
+      "lastSeenAt": "2026-11-24T00:41:11.453Z",
+      "lastVerifiedAt": "2026-11-24T00:41:12.276Z"
     },
     {
       "id": "f67953a1a52af1a6",
@@ -191,7 +191,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-23T12:05:20.441Z"
+      "lastVerifiedAt": "2026-11-24T00:41:12.276Z"
     },
     {
       "id": "1fbfe13b79035525",
@@ -212,7 +212,7 @@
       "source": "Trevita Infotech Careers",
       "applyUrl": "https://www.trevitainfotech.com/career",
       "snippet": "4-month Full-Stack Web Development Internship Programme at Trevita Infotech, Vadodara.",
-      "postedDate": "2026-11-23",
+      "postedDate": "2026-11-24",
       "deadlineAt": null,
       "discoveredAt": "2026-11-18T10:45:09.445Z",
       "employerWebsite": "https://www.trevitainfotech.com/career",
@@ -226,8 +226,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-23T12:05:20.082Z",
-      "lastVerifiedAt": "2026-11-23T12:05:20.490Z"
+      "lastSeenAt": "2026-11-24T00:41:11.453Z",
+      "lastVerifiedAt": "2026-11-24T00:41:12.330Z"
     },
     {
       "id": "5eed40f6043f4a79",
@@ -247,7 +247,7 @@
       "source": "Trevita Infotech Careers",
       "applyUrl": "https://www.trevitainfotech.com/career",
       "snippet": "4-month UI/UX & Graphic Design Internship Programme at Trevita Infotech, Alkapuri, Vadodara.",
-      "postedDate": "2026-11-23",
+      "postedDate": "2026-11-24",
       "deadlineAt": null,
       "discoveredAt": "2026-11-18T10:45:09.445Z",
       "employerWebsite": "https://www.trevitainfotech.com/career",
@@ -261,389 +261,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-23T12:05:20.082Z",
-      "lastVerifiedAt": "2026-11-23T12:05:20.575Z"
-    },
-    {
-      "id": "31e63f2accaf7609",
-      "title": "Software / Full-Stack / React / UI-UX Internship Programme",
-      "company": "Atyantik Technologies",
-      "location": "Vadodara, Gujarat",
-      "isVadodara": true,
-      "isRemote": false,
-      "workMode": "Vadodara",
-      "categories": [
-        "ui-ux",
-        "mern",
-        "fullstack"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship (Fresher)",
-      "fresherScore": 90,
-      "salary": "",
-      "source": "Atyantik Technologies Careers",
-      "applyUrl": "https://atyantik.com/careers/",
-      "snippet": "Structured Internship Programme at Atyantik Technologies, Vadodara covering Full-Stack, React, MERN, Backend & UI/UX.",
-      "postedDate": "2026-11-18",
-      "deadlineAt": null,
-      "discoveredAt": "2026-11-18T10:45:09.445Z",
-      "employerWebsite": "https://atyantik.com/careers/",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "glassdoor",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Atyantik%20Technologies",
-        "websiteUrl": "https://atyantik.com/careers/",
-        "hasPhysicalAddress": true,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-23T12:05:20.640Z"
-    },
-    {
-      "id": "255a07a515996072",
-      "title": "Software Development Internship Program",
-      "company": "Trevita Infotech",
-      "location": "Alkapuri, Vadodara (Emerald One, Jetalpur Rd)",
-      "isVadodara": true,
-      "isRemote": false,
-      "workMode": "Vadodara",
-      "categories": [
-        "fullstack"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship (Fresher)",
-      "fresherScore": 90,
-      "salary": "",
-      "source": "Trevita Infotech Careers",
-      "applyUrl": "https://www.trevitainfotech.com/career",
-      "snippet": "Live-project 6-month Software Development Internship at Trevita Infotech, Alkapuri, Vadodara (Full Stack, Web & Software Dev).",
-      "postedDate": "2026-11-23",
-      "deadlineAt": null,
-      "discoveredAt": "2026-11-18T10:45:09.445Z",
-      "employerWebsite": "https://www.trevitainfotech.com/career",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "glassdoor",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Trevita%20Infotech",
-        "websiteUrl": "https://www.trevitainfotech.com/career",
-        "hasPhysicalAddress": true,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-23T12:05:20.082Z",
-      "lastVerifiedAt": "2026-11-23T12:05:20.744Z"
-    },
-    {
-      "id": "cfb5057a488678b1",
-      "title": "IT / Web Development / Python / UI-UX Internship",
-      "company": "Helios Solutions",
-      "location": "Vadodara, Gujarat",
-      "isVadodara": true,
-      "isRemote": false,
-      "workMode": "Vadodara",
-      "categories": [
-        "ui-ux",
-        "fullstack",
-        "python"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship / Fresher",
-      "fresherScore": 90,
-      "salary": "",
-      "source": "Helios Solutions Careers",
-      "applyUrl": "https://www.heliossolutions.co/connect-with-us/apply-for-internship/",
-      "snippet": "Direct IT Internship application portal at Helios Solutions, Vadodara for recent graduates and students.",
-      "postedDate": "2026-11-23",
-      "deadlineAt": null,
-      "discoveredAt": "2026-11-18T10:45:09.445Z",
-      "employerWebsite": "https://www.heliossolutions.co/connect-with-us/apply-for-internship/",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "glassdoor",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Helios%20Solutions",
-        "websiteUrl": "https://www.heliossolutions.co/connect-with-us/apply-for-internship/",
-        "hasPhysicalAddress": false,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-23T12:05:20.082Z",
-      "lastVerifiedAt": "2026-11-23T12:05:21.285Z"
-    },
-    {
-      "id": "580b5c4605a690de",
-      "title": "UX/UI Design",
-      "company": "DeepThought CultureTech Ventures Private Limited",
-      "location": "Remote (Work From Home)",
-      "isVadodara": false,
-      "isRemote": true,
-      "workMode": "Remote",
-      "categories": [
-        "ui-ux"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship",
-      "fresherScore": 70,
-      "salary": "₹ 5,000 - 8,000 /month",
-      "source": "Internshala",
-      "applyUrl": "https://internshala.com/internship/detail/work-from-home-ux-ui-design-internship-at-deepthought-culturetech-ventures-private-limited1794905021",
-      "snippet": "",
-      "postedDate": "2026-11-18",
-      "deadlineAt": null,
-      "discoveredAt": "2026-11-18T10:45:09.445Z",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "website",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=DeepThought%20CultureTech%20Ventures%20Private%20Limited",
-        "websiteUrl": "https://www.deepthought.education/",
-        "hasPhysicalAddress": true,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-23T12:05:21.285Z"
-    },
-    {
-      "id": "831f1733fe3af4e1",
-      "title": "Junior Data Analyst Internship",
-      "company": "Maa Software Solutions",
-      "location": "Remote (Hyderabad)",
-      "isVadodara": false,
-      "isRemote": true,
-      "workMode": "Remote",
-      "categories": [
-        "data-analyst"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship",
-      "fresherScore": 95,
-      "salary": "₹15,000 - ₹15,000 /month",
-      "source": "Unstop",
-      "applyUrl": "https://unstop.com/internships/junior-data-analyst-maa-software-solutions-1815484",
-      "snippet": "",
-      "postedDate": "2026-11-17",
-      "deadlineAt": "2026-12-01T00:00:00+05:30",
-      "discoveredAt": "2026-11-18T10:23:58.587Z",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "website",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Maa%20Software%20Solutions",
-        "websiteUrl": "https://maasoftwaresolutions.in/",
-        "hasPhysicalAddress": true,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-23T12:05:21.285Z"
-    },
-    {
-      "id": "5fbf4b8ee7a431d7",
-      "title": "Data Analyst Internship",
-      "company": "Sclaria",
-      "location": "Remote (Work From Home)",
-      "isVadodara": false,
-      "isRemote": true,
-      "workMode": "Remote",
-      "categories": [
-        "data-analyst"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship",
-      "fresherScore": 75,
-      "salary": "₹24,000 - ₹24,000 /month",
-      "source": "Unstop",
-      "applyUrl": "https://unstop.com/internships/data-analyst-intern-sclaria-1805076",
-      "snippet": "",
-      "postedDate": "2026-11-11",
-      "deadlineAt": "2026-11-25T00:00:00+05:30",
-      "discoveredAt": "2026-11-18T10:23:58.587Z",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "website",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Sclaria",
-        "websiteUrl": "https://www.sclaria.com/",
-        "hasPhysicalAddress": true,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-23T12:05:21.285Z"
-    },
-    {
-      "id": "44a0c8db3ef62c35",
-      "title": "UI/UX Designer Internship",
-      "company": "Unicraft Tech",
-      "location": "Remote (Work From Home)",
-      "isVadodara": false,
-      "isRemote": true,
-      "workMode": "Remote",
-      "categories": [
-        "ui-ux"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship",
-      "fresherScore": 75,
-      "salary": "₹10,000 - ₹15,000 /month",
-      "source": "Unstop",
-      "applyUrl": "https://unstop.com/internships/uiux-designer-internship-unicraft-tech-1813245",
-      "snippet": "",
-      "postedDate": "2026-11-16",
-      "deadlineAt": "2026-11-30T00:00:00+05:30",
-      "discoveredAt": "2026-11-18T10:23:58.587Z",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "website",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Unicraft%20Tech",
-        "websiteUrl": "https://unicrafttech.in/",
-        "hasPhysicalAddress": true,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-23T12:05:21.285Z"
-    },
-    {
-      "id": "abc8672310cac38c",
-      "title": "Data Analytics",
-      "company": "Codeatrix",
-      "location": "Remote (Work From Home)",
-      "isVadodara": false,
-      "isRemote": true,
-      "workMode": "Remote",
-      "categories": [
-        "data-analyst"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship",
-      "fresherScore": 70,
-      "salary": "₹ 20,000 - 27,000 /month",
-      "source": "Internshala",
-      "applyUrl": "https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-codeatrix1794991249",
-      "snippet": "",
-      "postedDate": "2026-11-18",
-      "deadlineAt": null,
-      "discoveredAt": "2026-11-18T10:23:58.587Z",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "website",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Codeatrix",
-        "websiteUrl": "https://codeatrix.com/",
-        "hasPhysicalAddress": true,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-23T12:05:21.285Z"
-    },
-    {
-      "id": "62ecefdb09511b33",
-      "title": "UI/UX Design",
-      "company": "Unicraft Tech",
-      "location": "Remote (Work From Home)",
-      "isVadodara": false,
-      "isRemote": true,
-      "workMode": "Remote",
-      "categories": [
-        "ui-ux"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship",
-      "fresherScore": 70,
-      "salary": "₹ 10,000 - 15,000 /month",
-      "source": "Internshala",
-      "applyUrl": "https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-unicraft-tech1794991599",
-      "snippet": "",
-      "postedDate": "2026-11-18",
-      "deadlineAt": null,
-      "discoveredAt": "2026-11-18T10:23:58.587Z",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "website",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Unicraft%20Tech",
-        "websiteUrl": "https://unicrafttech.in/",
-        "hasPhysicalAddress": true,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-23T12:05:21.285Z"
-    },
-    {
-      "id": "ee3ea5807e83e12e",
-      "title": "Data Analytics",
-      "company": "EvoNexis",
-      "location": "Remote (Work From Home)",
-      "isVadodara": false,
-      "isRemote": true,
-      "workMode": "Remote",
-      "categories": [
-        "data-analyst"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship",
-      "fresherScore": 70,
-      "salary": "₹ 17,000 - 29,000 /month",
-      "source": "Internshala",
-      "applyUrl": "https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-evonexis1794977839",
-      "snippet": "",
-      "postedDate": "2026-11-18",
-      "deadlineAt": null,
-      "discoveredAt": "2026-11-18T10:23:58.587Z",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "website",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=EvoNexis",
-        "websiteUrl": "https://evonexis.com/",
-        "hasPhysicalAddress": true,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-23T12:05:21.285Z"
-    },
-    {
-      "id": "a9c68649d3dde160",
-      "title": "Python Development",
-      "company": "EvoNexis",
-      "location": "Remote (Work From Home)",
-      "isVadodara": false,
-      "isRemote": true,
-      "workMode": "Remote",
-      "categories": [
-        "python"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship",
-      "fresherScore": 70,
-      "salary": "₹ 12,000 - 24,000 /month",
-      "source": "Internshala",
-      "applyUrl": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-evonexis1794977803",
-      "snippet": "",
-      "postedDate": "2026-11-18",
-      "deadlineAt": null,
-      "discoveredAt": "2026-11-18T10:23:58.587Z",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "website",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=EvoNexis",
-        "websiteUrl": "https://evonexis.com/",
-        "hasPhysicalAddress": true,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-23T12:05:21.285Z"
+      "lastSeenAt": "2026-11-24T00:41:11.453Z",
+      "lastVerifiedAt": "2026-11-24T00:41:12.385Z"
     },
     {
       "id": "101e3d6972b3d94d",
@@ -680,7 +299,388 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-23T12:05:21.455Z"
+      "lastVerifiedAt": "2026-11-24T00:41:12.452Z"
+    },
+    {
+      "id": "31e63f2accaf7609",
+      "title": "Software / Full-Stack / React / UI-UX Internship Programme",
+      "company": "Atyantik Technologies",
+      "location": "Vadodara, Gujarat",
+      "isVadodara": true,
+      "isRemote": false,
+      "workMode": "Vadodara",
+      "categories": [
+        "ui-ux",
+        "mern",
+        "fullstack"
+      ],
+      "jobType": "Internship",
+      "experience": "Internship (Fresher)",
+      "fresherScore": 90,
+      "salary": "",
+      "source": "Atyantik Technologies Careers",
+      "applyUrl": "https://atyantik.com/careers/",
+      "snippet": "Structured Internship Programme at Atyantik Technologies, Vadodara covering Full-Stack, React, MERN, Backend & UI/UX.",
+      "postedDate": "2026-11-18",
+      "deadlineAt": null,
+      "discoveredAt": "2026-11-18T10:45:09.445Z",
+      "employerWebsite": "https://atyantik.com/careers/",
+      "glassdoor": {
+        "verified": true,
+        "verifiedVia": "glassdoor",
+        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Atyantik%20Technologies",
+        "websiteUrl": "https://atyantik.com/careers/",
+        "hasPhysicalAddress": true,
+        "rating": null,
+        "reviewCount": null,
+        "recommendToFriend": null
+      },
+      "lastSeenAt": "2026-11-18T11:00:03.353Z",
+      "lastVerifiedAt": "2026-11-24T00:41:12.483Z"
+    },
+    {
+      "id": "255a07a515996072",
+      "title": "Software Development Internship Program",
+      "company": "Trevita Infotech",
+      "location": "Alkapuri, Vadodara (Emerald One, Jetalpur Rd)",
+      "isVadodara": true,
+      "isRemote": false,
+      "workMode": "Vadodara",
+      "categories": [
+        "fullstack"
+      ],
+      "jobType": "Internship",
+      "experience": "Internship (Fresher)",
+      "fresherScore": 90,
+      "salary": "",
+      "source": "Trevita Infotech Careers",
+      "applyUrl": "https://www.trevitainfotech.com/career",
+      "snippet": "Live-project 6-month Software Development Internship at Trevita Infotech, Alkapuri, Vadodara (Full Stack, Web & Software Dev).",
+      "postedDate": "2026-11-24",
+      "deadlineAt": null,
+      "discoveredAt": "2026-11-18T10:45:09.445Z",
+      "employerWebsite": "https://www.trevitainfotech.com/career",
+      "glassdoor": {
+        "verified": true,
+        "verifiedVia": "glassdoor",
+        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Trevita%20Infotech",
+        "websiteUrl": "https://www.trevitainfotech.com/career",
+        "hasPhysicalAddress": true,
+        "rating": null,
+        "reviewCount": null,
+        "recommendToFriend": null
+      },
+      "lastSeenAt": "2026-11-24T00:41:11.453Z",
+      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+    },
+    {
+      "id": "580b5c4605a690de",
+      "title": "UX/UI Design",
+      "company": "DeepThought CultureTech Ventures Private Limited",
+      "location": "Remote (Work From Home)",
+      "isVadodara": false,
+      "isRemote": true,
+      "workMode": "Remote",
+      "categories": [
+        "ui-ux"
+      ],
+      "jobType": "Internship",
+      "experience": "Internship",
+      "fresherScore": 70,
+      "salary": "₹ 5,000 - 8,000 /month",
+      "source": "Internshala",
+      "applyUrl": "https://internshala.com/internship/detail/work-from-home-ux-ui-design-internship-at-deepthought-culturetech-ventures-private-limited1794905021",
+      "snippet": "",
+      "postedDate": "2026-11-18",
+      "deadlineAt": null,
+      "discoveredAt": "2026-11-18T10:45:09.445Z",
+      "glassdoor": {
+        "verified": true,
+        "verifiedVia": "website",
+        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=DeepThought%20CultureTech%20Ventures%20Private%20Limited",
+        "websiteUrl": "https://www.deepthought.education/",
+        "hasPhysicalAddress": true,
+        "rating": null,
+        "reviewCount": null,
+        "recommendToFriend": null
+      },
+      "lastSeenAt": "2026-11-18T11:00:03.353Z",
+      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+    },
+    {
+      "id": "831f1733fe3af4e1",
+      "title": "Junior Data Analyst Internship",
+      "company": "Maa Software Solutions",
+      "location": "Remote (Hyderabad)",
+      "isVadodara": false,
+      "isRemote": true,
+      "workMode": "Remote",
+      "categories": [
+        "data-analyst"
+      ],
+      "jobType": "Internship",
+      "experience": "Internship",
+      "fresherScore": 95,
+      "salary": "₹15,000 - ₹15,000 /month",
+      "source": "Unstop",
+      "applyUrl": "https://unstop.com/internships/junior-data-analyst-maa-software-solutions-1815484",
+      "snippet": "",
+      "postedDate": "2026-11-17",
+      "deadlineAt": "2026-12-01T00:00:00+05:30",
+      "discoveredAt": "2026-11-18T10:23:58.587Z",
+      "glassdoor": {
+        "verified": true,
+        "verifiedVia": "website",
+        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Maa%20Software%20Solutions",
+        "websiteUrl": "https://maasoftwaresolutions.in/",
+        "hasPhysicalAddress": true,
+        "rating": null,
+        "reviewCount": null,
+        "recommendToFriend": null
+      },
+      "lastSeenAt": "2026-11-18T11:00:03.353Z",
+      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+    },
+    {
+      "id": "5fbf4b8ee7a431d7",
+      "title": "Data Analyst Internship",
+      "company": "Sclaria",
+      "location": "Remote (Work From Home)",
+      "isVadodara": false,
+      "isRemote": true,
+      "workMode": "Remote",
+      "categories": [
+        "data-analyst"
+      ],
+      "jobType": "Internship",
+      "experience": "Internship",
+      "fresherScore": 75,
+      "salary": "₹24,000 - ₹24,000 /month",
+      "source": "Unstop",
+      "applyUrl": "https://unstop.com/internships/data-analyst-intern-sclaria-1805076",
+      "snippet": "",
+      "postedDate": "2026-11-11",
+      "deadlineAt": "2026-11-25T00:00:00+05:30",
+      "discoveredAt": "2026-11-18T10:23:58.587Z",
+      "glassdoor": {
+        "verified": true,
+        "verifiedVia": "website",
+        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Sclaria",
+        "websiteUrl": "https://www.sclaria.com/",
+        "hasPhysicalAddress": true,
+        "rating": null,
+        "reviewCount": null,
+        "recommendToFriend": null
+      },
+      "lastSeenAt": "2026-11-18T11:00:03.353Z",
+      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+    },
+    {
+      "id": "44a0c8db3ef62c35",
+      "title": "UI/UX Designer Internship",
+      "company": "Unicraft Tech",
+      "location": "Remote (Work From Home)",
+      "isVadodara": false,
+      "isRemote": true,
+      "workMode": "Remote",
+      "categories": [
+        "ui-ux"
+      ],
+      "jobType": "Internship",
+      "experience": "Internship",
+      "fresherScore": 75,
+      "salary": "₹10,000 - ₹15,000 /month",
+      "source": "Unstop",
+      "applyUrl": "https://unstop.com/internships/uiux-designer-internship-unicraft-tech-1813245",
+      "snippet": "",
+      "postedDate": "2026-11-16",
+      "deadlineAt": "2026-11-30T00:00:00+05:30",
+      "discoveredAt": "2026-11-18T10:23:58.587Z",
+      "glassdoor": {
+        "verified": true,
+        "verifiedVia": "website",
+        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Unicraft%20Tech",
+        "websiteUrl": "https://unicrafttech.in/",
+        "hasPhysicalAddress": true,
+        "rating": null,
+        "reviewCount": null,
+        "recommendToFriend": null
+      },
+      "lastSeenAt": "2026-11-18T11:00:03.353Z",
+      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+    },
+    {
+      "id": "abc8672310cac38c",
+      "title": "Data Analytics",
+      "company": "Codeatrix",
+      "location": "Remote (Work From Home)",
+      "isVadodara": false,
+      "isRemote": true,
+      "workMode": "Remote",
+      "categories": [
+        "data-analyst"
+      ],
+      "jobType": "Internship",
+      "experience": "Internship",
+      "fresherScore": 70,
+      "salary": "₹ 20,000 - 27,000 /month",
+      "source": "Internshala",
+      "applyUrl": "https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-codeatrix1794991249",
+      "snippet": "",
+      "postedDate": "2026-11-18",
+      "deadlineAt": null,
+      "discoveredAt": "2026-11-18T10:23:58.587Z",
+      "glassdoor": {
+        "verified": true,
+        "verifiedVia": "website",
+        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Codeatrix",
+        "websiteUrl": "https://codeatrix.com/",
+        "hasPhysicalAddress": true,
+        "rating": null,
+        "reviewCount": null,
+        "recommendToFriend": null
+      },
+      "lastSeenAt": "2026-11-18T11:00:03.353Z",
+      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+    },
+    {
+      "id": "62ecefdb09511b33",
+      "title": "UI/UX Design",
+      "company": "Unicraft Tech",
+      "location": "Remote (Work From Home)",
+      "isVadodara": false,
+      "isRemote": true,
+      "workMode": "Remote",
+      "categories": [
+        "ui-ux"
+      ],
+      "jobType": "Internship",
+      "experience": "Internship",
+      "fresherScore": 70,
+      "salary": "₹ 10,000 - 15,000 /month",
+      "source": "Internshala",
+      "applyUrl": "https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-unicraft-tech1794991599",
+      "snippet": "",
+      "postedDate": "2026-11-18",
+      "deadlineAt": null,
+      "discoveredAt": "2026-11-18T10:23:58.587Z",
+      "glassdoor": {
+        "verified": true,
+        "verifiedVia": "website",
+        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Unicraft%20Tech",
+        "websiteUrl": "https://unicrafttech.in/",
+        "hasPhysicalAddress": true,
+        "rating": null,
+        "reviewCount": null,
+        "recommendToFriend": null
+      },
+      "lastSeenAt": "2026-11-18T11:00:03.353Z",
+      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+    },
+    {
+      "id": "ee3ea5807e83e12e",
+      "title": "Data Analytics",
+      "company": "EvoNexis",
+      "location": "Remote (Work From Home)",
+      "isVadodara": false,
+      "isRemote": true,
+      "workMode": "Remote",
+      "categories": [
+        "data-analyst"
+      ],
+      "jobType": "Internship",
+      "experience": "Internship",
+      "fresherScore": 70,
+      "salary": "₹ 17,000 - 29,000 /month",
+      "source": "Internshala",
+      "applyUrl": "https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-evonexis1794977839",
+      "snippet": "",
+      "postedDate": "2026-11-18",
+      "deadlineAt": null,
+      "discoveredAt": "2026-11-18T10:23:58.587Z",
+      "glassdoor": {
+        "verified": true,
+        "verifiedVia": "website",
+        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=EvoNexis",
+        "websiteUrl": "https://evonexis.com/",
+        "hasPhysicalAddress": true,
+        "rating": null,
+        "reviewCount": null,
+        "recommendToFriend": null
+      },
+      "lastSeenAt": "2026-11-18T11:00:03.353Z",
+      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+    },
+    {
+      "id": "a9c68649d3dde160",
+      "title": "Python Development",
+      "company": "EvoNexis",
+      "location": "Remote (Work From Home)",
+      "isVadodara": false,
+      "isRemote": true,
+      "workMode": "Remote",
+      "categories": [
+        "python"
+      ],
+      "jobType": "Internship",
+      "experience": "Internship",
+      "fresherScore": 70,
+      "salary": "₹ 12,000 - 24,000 /month",
+      "source": "Internshala",
+      "applyUrl": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-evonexis1794977803",
+      "snippet": "",
+      "postedDate": "2026-11-18",
+      "deadlineAt": null,
+      "discoveredAt": "2026-11-18T10:23:58.587Z",
+      "glassdoor": {
+        "verified": true,
+        "verifiedVia": "website",
+        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=EvoNexis",
+        "websiteUrl": "https://evonexis.com/",
+        "hasPhysicalAddress": true,
+        "rating": null,
+        "reviewCount": null,
+        "recommendToFriend": null
+      },
+      "lastSeenAt": "2026-11-18T11:00:03.353Z",
+      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+    },
+    {
+      "id": "cfb5057a488678b1",
+      "title": "IT / Web Development / Python / UI-UX Internship",
+      "company": "Helios Solutions",
+      "location": "Vadodara, Gujarat",
+      "isVadodara": true,
+      "isRemote": false,
+      "workMode": "Vadodara",
+      "categories": [
+        "ui-ux",
+        "fullstack",
+        "python"
+      ],
+      "jobType": "Internship",
+      "experience": "Internship / Fresher",
+      "fresherScore": 90,
+      "salary": "",
+      "source": "Helios Solutions Careers",
+      "applyUrl": "https://www.heliossolutions.co/connect-with-us/apply-for-internship/",
+      "snippet": "Direct IT Internship application portal at Helios Solutions, Vadodara for recent graduates and students.",
+      "postedDate": "2026-11-24",
+      "deadlineAt": null,
+      "discoveredAt": "2026-11-18T10:45:09.445Z",
+      "employerWebsite": "https://www.heliossolutions.co/connect-with-us/apply-for-internship/",
+      "glassdoor": {
+        "verified": true,
+        "verifiedVia": "glassdoor",
+        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Helios%20Solutions",
+        "websiteUrl": "https://www.heliossolutions.co/connect-with-us/apply-for-internship/",
+        "hasPhysicalAddress": false,
+        "rating": null,
+        "reviewCount": null,
+        "recommendToFriend": null
+      },
+      "lastSeenAt": "2026-11-24T00:41:11.453Z",
+      "lastVerifiedAt": "2026-11-24T00:41:12.968Z"
     },
     {
       "id": "79f88bd1bfddf47f",
@@ -714,7 +714,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T09:58:58.866Z",
-      "lastVerifiedAt": "2026-11-23T12:05:21.455Z"
+      "lastVerifiedAt": "2026-11-24T00:41:12.968Z"
     },
     {
       "id": "65e5b46f88fd88f4",
@@ -748,7 +748,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": null,
-      "lastVerifiedAt": "2026-11-23T12:05:21.455Z"
+      "lastVerifiedAt": "2026-11-24T00:41:12.968Z"
     },
     {
       "id": "127b688c9ad5f38f",
@@ -782,7 +782,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": "2026-11-27T15:57:23+05:30",
-      "lastVerifiedAt": "2026-11-23T12:05:21.455Z"
+      "lastVerifiedAt": "2026-11-24T00:41:12.968Z"
     },
     {
       "id": "1e4bec3584d5ccdb",
@@ -816,7 +816,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": null,
-      "lastVerifiedAt": "2026-11-23T12:05:21.455Z"
+      "lastVerifiedAt": "2026-11-24T00:41:12.968Z"
     },
     {
       "id": "234616ebcc563687",
@@ -839,7 +839,7 @@
       "source": "Zignuts Technolab Careers",
       "applyUrl": "https://www.zignuts.com/career",
       "snippet": "Live Internship Opportunity listed on Zignuts Technolab careers page for freshers and students.",
-      "postedDate": "2026-11-23",
+      "postedDate": "2026-11-24",
       "deadlineAt": null,
       "discoveredAt": "2026-11-18T10:11:49.108Z",
       "glassdoor": {
@@ -852,8 +852,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-23T12:05:20.082Z",
-      "lastVerifiedAt": "2026-11-23T12:05:22.007Z",
+      "lastSeenAt": "2026-11-24T00:41:11.453Z",
+      "lastVerifiedAt": "2026-11-24T00:41:13.294Z",
       "employerWebsite": "https://www.zignuts.com/career"
     }
   ]
