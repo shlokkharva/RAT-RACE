@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T10:57:56.180Z",
+  "updatedAt": "2026-11-24T23:49:24.299Z",
   "expired": [
     {
       "id": "1a12d91f2a8b1bbf",
@@ -28,6 +28,13 @@
       "company": "Opal Code",
       "reason": "Deadline passed",
       "markedAt": "2026-11-22T10:57:56.180Z"
+    },
+    {
+      "id": "5fbf4b8ee7a431d7",
+      "title": "Data Analyst Internship",
+      "company": "Sclaria",
+      "reason": "Deadline passed",
+      "markedAt": "2026-11-24T23:49:24.299Z"
     }
   ]
 }
