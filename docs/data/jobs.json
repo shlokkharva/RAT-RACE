@@ -8,7 +8,7 @@
       "Full-Stack",
       "Python"
     ],
-    "lastUpdated": "2026-11-24T00:41:11.453Z",
+    "lastUpdated": "2026-11-24T13:29:20.284Z",
     "totalJobs": 23,
     "newInLastRun": 0,
     "sourcesStatus": {
@@ -31,7 +31,7 @@
       "Jobicy": {
         "enabled": true,
         "status": "ok",
-        "rawCount": 24
+        "rawCount": 27
       },
       "Remotive (Remote)": {
         "enabled": true,
@@ -86,8 +86,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-24T00:41:11.453Z",
-      "lastVerifiedAt": "2026-11-24T00:41:11.542Z"
+      "lastSeenAt": "2026-11-24T13:29:20.284Z",
+      "lastVerifiedAt": "2026-11-24T13:29:20.528Z"
     },
     {
       "id": "58804d6e1d3c8a1c",
@@ -121,7 +121,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-24T00:41:11.542Z"
+      "lastVerifiedAt": "2026-11-24T13:29:20.529Z"
     },
     {
       "id": "897c0c041d963fb1",
@@ -156,8 +156,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-24T00:41:11.453Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.276Z"
+      "lastSeenAt": "2026-11-24T13:29:20.284Z",
+      "lastVerifiedAt": "2026-11-24T13:29:22.314Z"
     },
     {
       "id": "f67953a1a52af1a6",
@@ -191,7 +191,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.276Z"
+      "lastVerifiedAt": "2026-11-24T13:29:22.314Z"
     },
     {
       "id": "1fbfe13b79035525",
@@ -226,8 +226,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-24T00:41:11.453Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.330Z"
+      "lastSeenAt": "2026-11-24T13:29:20.284Z",
+      "lastVerifiedAt": "2026-11-24T13:29:22.492Z"
     },
     {
       "id": "5eed40f6043f4a79",
@@ -261,45 +261,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-24T00:41:11.453Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.385Z"
-    },
-    {
-      "id": "101e3d6972b3d94d",
-      "title": "AICTE-Approved Full-Stack / Frontend / UI-UX Student Internship (3–6 Months)",
-      "company": "MaMo Technolabs",
-      "location": "Vadodara, Gujarat",
-      "isVadodara": true,
-      "isRemote": false,
-      "workMode": "Vadodara",
-      "categories": [
-        "ui-ux",
-        "mern",
-        "fullstack"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship (Student / Fresher)",
-      "fresherScore": 90,
-      "salary": "",
-      "source": "MaMo Technolabs Careers",
-      "applyUrl": "https://mamotechnolabs.com/internship/",
-      "snippet": "Structured 3–6 month student IT internship program in Full-Stack, MERN, UI/UX & Frontend at MaMo Technolabs, Vadodara.",
-      "postedDate": "2026-11-18",
-      "deadlineAt": null,
-      "discoveredAt": "2026-11-18T10:50:59.353Z",
-      "employerWebsite": "https://mamotechnolabs.com/internship/",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "website",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=MaMo%20Technolabs",
-        "websiteUrl": "https://mamotechnolabs.com/internship/",
-        "hasPhysicalAddress": true,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.452Z"
+      "lastSeenAt": "2026-11-24T13:29:20.284Z",
+      "lastVerifiedAt": "2026-11-24T13:29:22.559Z"
     },
     {
       "id": "31e63f2accaf7609",
@@ -336,7 +299,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.483Z"
+      "lastVerifiedAt": "2026-11-24T13:29:22.621Z"
     },
     {
       "id": "255a07a515996072",
@@ -370,8 +333,45 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-24T00:41:11.453Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+      "lastSeenAt": "2026-11-24T13:29:20.284Z",
+      "lastVerifiedAt": "2026-11-24T13:29:22.686Z"
+    },
+    {
+      "id": "101e3d6972b3d94d",
+      "title": "AICTE-Approved Full-Stack / Frontend / UI-UX Student Internship (3–6 Months)",
+      "company": "MaMo Technolabs",
+      "location": "Vadodara, Gujarat",
+      "isVadodara": true,
+      "isRemote": false,
+      "workMode": "Vadodara",
+      "categories": [
+        "ui-ux",
+        "mern",
+        "fullstack"
+      ],
+      "jobType": "Internship",
+      "experience": "Internship (Student / Fresher)",
+      "fresherScore": 90,
+      "salary": "",
+      "source": "MaMo Technolabs Careers",
+      "applyUrl": "https://mamotechnolabs.com/internship/",
+      "snippet": "Structured 3–6 month student IT internship program in Full-Stack, MERN, UI/UX & Frontend at MaMo Technolabs, Vadodara.",
+      "postedDate": "2026-11-18",
+      "deadlineAt": null,
+      "discoveredAt": "2026-11-18T10:50:59.353Z",
+      "employerWebsite": "https://mamotechnolabs.com/internship/",
+      "glassdoor": {
+        "verified": true,
+        "verifiedVia": "website",
+        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=MaMo%20Technolabs",
+        "websiteUrl": "https://mamotechnolabs.com/internship/",
+        "hasPhysicalAddress": true,
+        "rating": null,
+        "reviewCount": null,
+        "recommendToFriend": null
+      },
+      "lastSeenAt": "2026-11-18T11:00:03.353Z",
+      "lastVerifiedAt": "2026-11-24T13:29:22.832Z"
     },
     {
       "id": "580b5c4605a690de",
@@ -405,7 +405,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+      "lastVerifiedAt": "2026-11-24T13:29:22.832Z"
     },
     {
       "id": "831f1733fe3af4e1",
@@ -439,7 +439,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+      "lastVerifiedAt": "2026-11-24T13:29:22.832Z"
     },
     {
       "id": "5fbf4b8ee7a431d7",
@@ -473,7 +473,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+      "lastVerifiedAt": "2026-11-24T13:29:22.832Z"
     },
     {
       "id": "44a0c8db3ef62c35",
@@ -507,7 +507,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+      "lastVerifiedAt": "2026-11-24T13:29:22.832Z"
     },
     {
       "id": "abc8672310cac38c",
@@ -541,7 +541,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+      "lastVerifiedAt": "2026-11-24T13:29:22.832Z"
     },
     {
       "id": "62ecefdb09511b33",
@@ -575,7 +575,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+      "lastVerifiedAt": "2026-11-24T13:29:22.832Z"
     },
     {
       "id": "ee3ea5807e83e12e",
@@ -609,7 +609,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+      "lastVerifiedAt": "2026-11-24T13:29:22.832Z"
     },
     {
       "id": "a9c68649d3dde160",
@@ -643,7 +643,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.487Z"
+      "lastVerifiedAt": "2026-11-24T13:29:22.832Z"
     },
     {
       "id": "cfb5057a488678b1",
@@ -679,8 +679,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-24T00:41:11.453Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.968Z"
+      "lastSeenAt": "2026-11-24T13:29:20.284Z",
+      "lastVerifiedAt": "2026-11-24T13:29:23.429Z"
     },
     {
       "id": "79f88bd1bfddf47f",
@@ -714,7 +714,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T09:58:58.866Z",
-      "lastVerifiedAt": "2026-11-24T00:41:12.968Z"
+      "lastVerifiedAt": "2026-11-24T13:29:23.429Z"
     },
     {
       "id": "65e5b46f88fd88f4",
@@ -748,7 +748,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": null,
-      "lastVerifiedAt": "2026-11-24T00:41:12.968Z"
+      "lastVerifiedAt": "2026-11-24T13:29:23.429Z"
     },
     {
       "id": "127b688c9ad5f38f",
@@ -782,7 +782,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": "2026-11-27T15:57:23+05:30",
-      "lastVerifiedAt": "2026-11-24T00:41:12.968Z"
+      "lastVerifiedAt": "2026-11-24T13:29:23.429Z"
     },
     {
       "id": "1e4bec3584d5ccdb",
@@ -816,7 +816,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": null,
-      "lastVerifiedAt": "2026-11-24T00:41:12.968Z"
+      "lastVerifiedAt": "2026-11-24T13:29:23.429Z"
     },
     {
       "id": "234616ebcc563687",
@@ -852,8 +852,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-24T00:41:11.453Z",
-      "lastVerifiedAt": "2026-11-24T00:41:13.294Z",
+      "lastSeenAt": "2026-11-24T13:29:20.284Z",
+      "lastVerifiedAt": "2026-11-24T13:29:24.123Z",
       "employerWebsite": "https://www.zignuts.com/career"
     }
   ]
