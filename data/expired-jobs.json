@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T23:49:24.299Z",
+  "updatedAt": "2026-11-27T11:57:02.489Z",
   "expired": [
     {
       "id": "1a12d91f2a8b1bbf",
@@ -35,6 +35,13 @@
       "company": "Sclaria",
       "reason": "Deadline passed",
       "markedAt": "2026-11-24T23:49:24.299Z"
+    },
+    {
+      "id": "127b688c9ad5f38f",
+      "title": "Data Analyst (Marathi Language Required)",
+      "company": "Peroptyx",
+      "reason": "Deadline passed",
+      "markedAt": "2026-11-27T11:57:02.489Z"
     }
   ]
 }
