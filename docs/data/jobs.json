@@ -8,7 +8,7 @@
       "Full-Stack",
       "Python"
     ],
-    "lastUpdated": "2026-11-27T11:57:00.504Z",
+    "lastUpdated": "2026-11-27T21:52:24.582Z",
     "totalJobs": 22,
     "newInLastRun": 0,
     "sourcesStatus": {
@@ -31,7 +31,7 @@
       "Jobicy": {
         "enabled": true,
         "status": "ok",
-        "rawCount": 28
+        "rawCount": 25
       },
       "Remotive (Remote)": {
         "enabled": true,
@@ -84,8 +84,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-27T11:57:00.504Z",
-      "lastVerifiedAt": "2026-11-27T11:57:00.536Z"
+      "lastSeenAt": "2026-11-27T21:52:24.582Z",
+      "lastVerifiedAt": "2026-11-27T21:52:24.627Z"
     },
     {
       "id": "663a400735febb56",
@@ -120,8 +120,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-27T11:57:00.504Z",
-      "lastVerifiedAt": "2026-11-27T11:57:00.560Z"
+      "lastSeenAt": "2026-11-27T21:52:24.582Z",
+      "lastVerifiedAt": "2026-11-27T21:52:24.643Z"
     },
     {
       "id": "58804d6e1d3c8a1c",
@@ -155,7 +155,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T11:57:00.560Z"
+      "lastVerifiedAt": "2026-11-27T21:52:24.643Z"
     },
     {
       "id": "101e3d6972b3d94d",
@@ -192,7 +192,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T11:57:01.499Z"
+      "lastVerifiedAt": "2026-11-27T21:52:25.672Z"
     },
     {
       "id": "f67953a1a52af1a6",
@@ -226,7 +226,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T11:57:01.499Z"
+      "lastVerifiedAt": "2026-11-27T21:52:25.672Z"
     },
     {
       "id": "1fbfe13b79035525",
@@ -261,8 +261,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-27T11:57:00.504Z",
-      "lastVerifiedAt": "2026-11-27T11:57:01.685Z"
+      "lastSeenAt": "2026-11-27T21:52:24.582Z",
+      "lastVerifiedAt": "2026-11-27T21:52:25.776Z"
     },
     {
       "id": "5eed40f6043f4a79",
@@ -296,8 +296,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-27T11:57:00.504Z",
-      "lastVerifiedAt": "2026-11-27T11:57:01.719Z"
+      "lastSeenAt": "2026-11-27T21:52:24.582Z",
+      "lastVerifiedAt": "2026-11-27T21:52:25.841Z"
     },
     {
       "id": "31e63f2accaf7609",
@@ -334,42 +334,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T11:57:01.748Z"
-    },
-    {
-      "id": "255a07a515996072",
-      "title": "Software Development Internship Program",
-      "company": "Trevita Infotech",
-      "location": "Alkapuri, Vadodara (Emerald One, Jetalpur Rd)",
-      "isVadodara": true,
-      "isRemote": false,
-      "workMode": "Vadodara",
-      "categories": [
-        "fullstack"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship (Fresher)",
-      "fresherScore": 90,
-      "salary": "",
-      "source": "Trevita Infotech Careers",
-      "applyUrl": "https://www.trevitainfotech.com/career",
-      "snippet": "Live-project 6-month Software Development Internship at Trevita Infotech, Alkapuri, Vadodara (Full Stack, Web & Software Dev).",
-      "postedDate": "2026-11-27",
-      "deadlineAt": null,
-      "discoveredAt": "2026-11-18T10:45:09.445Z",
-      "employerWebsite": "https://www.trevitainfotech.com/career",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "glassdoor",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Trevita%20Infotech",
-        "websiteUrl": "https://www.trevitainfotech.com/career",
-        "hasPhysicalAddress": true,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-27T11:57:00.504Z",
-      "lastVerifiedAt": "2026-11-27T11:57:01.773Z"
+      "lastVerifiedAt": "2026-11-27T21:52:25.872Z"
     },
     {
       "id": "897c0c041d963fb1",
@@ -405,7 +370,42 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-26T22:12:43.106Z",
-      "lastVerifiedAt": "2026-11-27T11:57:02.377Z"
+      "lastVerifiedAt": "2026-11-27T21:52:25.896Z"
+    },
+    {
+      "id": "255a07a515996072",
+      "title": "Software Development Internship Program",
+      "company": "Trevita Infotech",
+      "location": "Alkapuri, Vadodara (Emerald One, Jetalpur Rd)",
+      "isVadodara": true,
+      "isRemote": false,
+      "workMode": "Vadodara",
+      "categories": [
+        "fullstack"
+      ],
+      "jobType": "Internship",
+      "experience": "Internship (Fresher)",
+      "fresherScore": 90,
+      "salary": "",
+      "source": "Trevita Infotech Careers",
+      "applyUrl": "https://www.trevitainfotech.com/career",
+      "snippet": "Live-project 6-month Software Development Internship at Trevita Infotech, Alkapuri, Vadodara (Full Stack, Web & Software Dev).",
+      "postedDate": "2026-11-27",
+      "deadlineAt": null,
+      "discoveredAt": "2026-11-18T10:45:09.445Z",
+      "employerWebsite": "https://www.trevitainfotech.com/career",
+      "glassdoor": {
+        "verified": true,
+        "verifiedVia": "glassdoor",
+        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Trevita%20Infotech",
+        "websiteUrl": "https://www.trevitainfotech.com/career",
+        "hasPhysicalAddress": true,
+        "rating": null,
+        "reviewCount": null,
+        "recommendToFriend": null
+      },
+      "lastSeenAt": "2026-11-27T21:52:24.582Z",
+      "lastVerifiedAt": "2026-11-27T21:52:25.912Z"
     },
     {
       "id": "580b5c4605a690de",
@@ -439,7 +439,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T11:57:02.377Z"
+      "lastVerifiedAt": "2026-11-27T21:52:25.912Z"
     },
     {
       "id": "831f1733fe3af4e1",
@@ -473,7 +473,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T11:57:02.377Z"
+      "lastVerifiedAt": "2026-11-27T21:52:25.912Z"
     },
     {
       "id": "44a0c8db3ef62c35",
@@ -507,7 +507,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T11:57:02.377Z"
+      "lastVerifiedAt": "2026-11-27T21:52:25.912Z"
     },
     {
       "id": "abc8672310cac38c",
@@ -541,7 +541,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T11:57:02.377Z"
+      "lastVerifiedAt": "2026-11-27T21:52:25.912Z"
     },
     {
       "id": "62ecefdb09511b33",
@@ -575,7 +575,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T11:57:02.377Z"
+      "lastVerifiedAt": "2026-11-27T21:52:25.912Z"
     },
     {
       "id": "ee3ea5807e83e12e",
@@ -609,7 +609,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T11:57:02.377Z"
+      "lastVerifiedAt": "2026-11-27T21:52:25.912Z"
     },
     {
       "id": "a9c68649d3dde160",
@@ -643,7 +643,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T11:57:02.377Z"
+      "lastVerifiedAt": "2026-11-27T21:52:25.912Z"
     },
     {
       "id": "cfb5057a488678b1",
@@ -679,8 +679,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-27T11:57:00.504Z",
-      "lastVerifiedAt": "2026-11-27T11:57:02.488Z"
+      "lastSeenAt": "2026-11-27T21:52:24.582Z",
+      "lastVerifiedAt": "2026-11-27T21:52:26.654Z"
     },
     {
       "id": "79f88bd1bfddf47f",
@@ -714,7 +714,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T09:58:58.866Z",
-      "lastVerifiedAt": "2026-11-27T11:57:02.488Z"
+      "lastVerifiedAt": "2026-11-27T21:52:26.655Z"
     },
     {
       "id": "65e5b46f88fd88f4",
@@ -748,7 +748,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": null,
-      "lastVerifiedAt": "2026-11-27T11:57:02.488Z"
+      "lastVerifiedAt": "2026-11-27T21:52:26.655Z"
     },
     {
       "id": "1e4bec3584d5ccdb",
@@ -782,7 +782,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": null,
-      "lastVerifiedAt": "2026-11-27T11:57:02.489Z"
+      "lastVerifiedAt": "2026-11-27T21:52:26.655Z"
     },
     {
       "id": "234616ebcc563687",
@@ -818,8 +818,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-27T11:57:00.504Z",
-      "lastVerifiedAt": "2026-11-27T11:57:04.020Z",
+      "lastSeenAt": "2026-11-27T21:52:24.582Z",
+      "lastVerifiedAt": "2026-11-27T21:52:27.161Z",
       "employerWebsite": "https://www.zignuts.com/career"
     }
   ]
