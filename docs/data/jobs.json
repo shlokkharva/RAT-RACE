@@ -8,14 +8,14 @@
       "Full-Stack",
       "Python"
     ],
-    "lastUpdated": "2026-11-27T21:52:24.582Z",
+    "lastUpdated": "2026-11-28T11:32:08.241Z",
     "totalJobs": 22,
     "newInLastRun": 0,
     "sourcesStatus": {
       "Vadodara Company Careers": {
         "enabled": true,
         "status": "ok",
-        "rawCount": 14
+        "rawCount": 11
       },
       "Google Jobs (JSearch)": {
         "enabled": false,
@@ -31,7 +31,7 @@
       "Jobicy": {
         "enabled": true,
         "status": "ok",
-        "rawCount": 25
+        "rawCount": 26
       },
       "Remotive (Remote)": {
         "enabled": true,
@@ -53,6 +53,42 @@
     }
   },
   "jobs": [
+    {
+      "id": "663a400735febb56",
+      "title": "Software / Full-Stack / React / UI-UX Internship Programme (6 Months On-Site)",
+      "company": "Atyantik Technologies",
+      "location": "Vadodara, Gujarat",
+      "isVadodara": true,
+      "isRemote": false,
+      "workMode": "Vadodara",
+      "categories": [
+        "ui-ux",
+        "fullstack"
+      ],
+      "jobType": "Internship",
+      "experience": "Internship (Fresher)",
+      "fresherScore": 90,
+      "salary": "",
+      "source": "Atyantik Technologies Careers",
+      "applyUrl": "https://atyantik.com/careers/",
+      "snippet": "6-month on-site Internship Programme at Atyantik Technologies, Vadodara for final-year students and graduates.",
+      "postedDate": "2026-11-28",
+      "deadlineAt": null,
+      "discoveredAt": "2026-11-18T21:15:46.209Z",
+      "employerWebsite": "https://atyantik.com/careers/",
+      "glassdoor": {
+        "verified": true,
+        "verifiedVia": "glassdoor",
+        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Atyantik%20Technologies",
+        "websiteUrl": "https://atyantik.com/careers/",
+        "hasPhysicalAddress": true,
+        "rating": null,
+        "reviewCount": null,
+        "recommendToFriend": null
+      },
+      "lastSeenAt": "2026-11-28T11:32:08.241Z",
+      "lastVerifiedAt": "2026-11-28T11:32:08.361Z"
+    },
     {
       "id": "23475f1a3ed99649",
       "title": "Junior Linux Kernel Engineer - Ubuntu",
@@ -84,44 +120,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-27T21:52:24.582Z",
-      "lastVerifiedAt": "2026-11-27T21:52:24.627Z"
-    },
-    {
-      "id": "663a400735febb56",
-      "title": "Software / Full-Stack / React / UI-UX Internship Programme (6 Months On-Site)",
-      "company": "Atyantik Technologies",
-      "location": "Vadodara, Gujarat",
-      "isVadodara": true,
-      "isRemote": false,
-      "workMode": "Vadodara",
-      "categories": [
-        "ui-ux",
-        "fullstack"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship (Fresher)",
-      "fresherScore": 90,
-      "salary": "",
-      "source": "Atyantik Technologies Careers",
-      "applyUrl": "https://atyantik.com/careers/",
-      "snippet": "6-month on-site Internship Programme at Atyantik Technologies, Vadodara for final-year students and graduates.",
-      "postedDate": "2026-11-27",
-      "deadlineAt": null,
-      "discoveredAt": "2026-11-18T21:15:46.209Z",
-      "employerWebsite": "https://atyantik.com/careers/",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "glassdoor",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Atyantik%20Technologies",
-        "websiteUrl": "https://atyantik.com/careers/",
-        "hasPhysicalAddress": true,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-27T21:52:24.582Z",
-      "lastVerifiedAt": "2026-11-27T21:52:24.643Z"
+      "lastSeenAt": "2026-11-28T11:32:08.241Z",
+      "lastVerifiedAt": "2026-11-28T11:32:08.449Z"
     },
     {
       "id": "58804d6e1d3c8a1c",
@@ -155,7 +155,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T21:52:24.643Z"
+      "lastVerifiedAt": "2026-11-28T11:32:08.449Z"
     },
     {
       "id": "101e3d6972b3d94d",
@@ -192,7 +192,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T21:52:25.672Z"
+      "lastVerifiedAt": "2026-11-28T11:32:09.819Z"
     },
     {
       "id": "f67953a1a52af1a6",
@@ -226,7 +226,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T21:52:25.672Z"
+      "lastVerifiedAt": "2026-11-28T11:32:09.819Z"
     },
     {
       "id": "1fbfe13b79035525",
@@ -262,7 +262,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-27T21:52:24.582Z",
-      "lastVerifiedAt": "2026-11-27T21:52:25.776Z"
+      "lastVerifiedAt": "2026-11-28T11:32:09.961Z"
     },
     {
       "id": "5eed40f6043f4a79",
@@ -297,7 +297,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-27T21:52:24.582Z",
-      "lastVerifiedAt": "2026-11-27T21:52:25.841Z"
+      "lastVerifiedAt": "2026-11-28T11:32:10.171Z"
     },
     {
       "id": "31e63f2accaf7609",
@@ -334,7 +334,42 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T21:52:25.872Z"
+      "lastVerifiedAt": "2026-11-28T11:32:10.238Z"
+    },
+    {
+      "id": "255a07a515996072",
+      "title": "Software Development Internship Program",
+      "company": "Trevita Infotech",
+      "location": "Alkapuri, Vadodara (Emerald One, Jetalpur Rd)",
+      "isVadodara": true,
+      "isRemote": false,
+      "workMode": "Vadodara",
+      "categories": [
+        "fullstack"
+      ],
+      "jobType": "Internship",
+      "experience": "Internship (Fresher)",
+      "fresherScore": 90,
+      "salary": "",
+      "source": "Trevita Infotech Careers",
+      "applyUrl": "https://www.trevitainfotech.com/career",
+      "snippet": "Live-project 6-month Software Development Internship at Trevita Infotech, Alkapuri, Vadodara (Full Stack, Web & Software Dev).",
+      "postedDate": "2026-11-27",
+      "deadlineAt": null,
+      "discoveredAt": "2026-11-18T10:45:09.445Z",
+      "employerWebsite": "https://www.trevitainfotech.com/career",
+      "glassdoor": {
+        "verified": true,
+        "verifiedVia": "glassdoor",
+        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Trevita%20Infotech",
+        "websiteUrl": "https://www.trevitainfotech.com/career",
+        "hasPhysicalAddress": true,
+        "rating": null,
+        "reviewCount": null,
+        "recommendToFriend": null
+      },
+      "lastSeenAt": "2026-11-27T21:52:24.582Z",
+      "lastVerifiedAt": "2026-11-28T11:32:10.471Z"
     },
     {
       "id": "897c0c041d963fb1",
@@ -370,42 +405,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-26T22:12:43.106Z",
-      "lastVerifiedAt": "2026-11-27T21:52:25.896Z"
-    },
-    {
-      "id": "255a07a515996072",
-      "title": "Software Development Internship Program",
-      "company": "Trevita Infotech",
-      "location": "Alkapuri, Vadodara (Emerald One, Jetalpur Rd)",
-      "isVadodara": true,
-      "isRemote": false,
-      "workMode": "Vadodara",
-      "categories": [
-        "fullstack"
-      ],
-      "jobType": "Internship",
-      "experience": "Internship (Fresher)",
-      "fresherScore": 90,
-      "salary": "",
-      "source": "Trevita Infotech Careers",
-      "applyUrl": "https://www.trevitainfotech.com/career",
-      "snippet": "Live-project 6-month Software Development Internship at Trevita Infotech, Alkapuri, Vadodara (Full Stack, Web & Software Dev).",
-      "postedDate": "2026-11-27",
-      "deadlineAt": null,
-      "discoveredAt": "2026-11-18T10:45:09.445Z",
-      "employerWebsite": "https://www.trevitainfotech.com/career",
-      "glassdoor": {
-        "verified": true,
-        "verifiedVia": "glassdoor",
-        "url": "https://www.glassdoor.co.in/Search/results.htm?keyword=Trevita%20Infotech",
-        "websiteUrl": "https://www.trevitainfotech.com/career",
-        "hasPhysicalAddress": true,
-        "rating": null,
-        "reviewCount": null,
-        "recommendToFriend": null
-      },
-      "lastSeenAt": "2026-11-27T21:52:24.582Z",
-      "lastVerifiedAt": "2026-11-27T21:52:25.912Z"
+      "lastVerifiedAt": "2026-11-28T11:32:10.730Z"
     },
     {
       "id": "580b5c4605a690de",
@@ -439,7 +439,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T21:52:25.912Z"
+      "lastVerifiedAt": "2026-11-28T11:32:10.730Z"
     },
     {
       "id": "831f1733fe3af4e1",
@@ -473,7 +473,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T21:52:25.912Z"
+      "lastVerifiedAt": "2026-11-28T11:32:10.730Z"
     },
     {
       "id": "44a0c8db3ef62c35",
@@ -507,7 +507,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T21:52:25.912Z"
+      "lastVerifiedAt": "2026-11-28T11:32:10.730Z"
     },
     {
       "id": "abc8672310cac38c",
@@ -541,7 +541,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T21:52:25.912Z"
+      "lastVerifiedAt": "2026-11-28T11:32:10.730Z"
     },
     {
       "id": "62ecefdb09511b33",
@@ -575,7 +575,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T21:52:25.912Z"
+      "lastVerifiedAt": "2026-11-28T11:32:10.730Z"
     },
     {
       "id": "ee3ea5807e83e12e",
@@ -609,7 +609,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T21:52:25.912Z"
+      "lastVerifiedAt": "2026-11-28T11:32:10.730Z"
     },
     {
       "id": "a9c68649d3dde160",
@@ -643,7 +643,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
-      "lastVerifiedAt": "2026-11-27T21:52:25.912Z"
+      "lastVerifiedAt": "2026-11-28T11:32:10.730Z"
     },
     {
       "id": "cfb5057a488678b1",
@@ -665,7 +665,7 @@
       "source": "Helios Solutions Careers",
       "applyUrl": "https://www.heliossolutions.co/connect-with-us/apply-for-internship/",
       "snippet": "Direct IT Internship application portal at Helios Solutions, Vadodara for recent graduates and students.",
-      "postedDate": "2026-11-27",
+      "postedDate": "2026-11-28",
       "deadlineAt": null,
       "discoveredAt": "2026-11-18T10:45:09.445Z",
       "employerWebsite": "https://www.heliossolutions.co/connect-with-us/apply-for-internship/",
@@ -679,8 +679,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-27T21:52:24.582Z",
-      "lastVerifiedAt": "2026-11-27T21:52:26.654Z"
+      "lastSeenAt": "2026-11-28T11:32:08.241Z",
+      "lastVerifiedAt": "2026-11-28T11:32:11.443Z"
     },
     {
       "id": "79f88bd1bfddf47f",
@@ -714,7 +714,7 @@
         "recommendToFriend": null
       },
       "lastSeenAt": "2026-11-18T09:58:58.866Z",
-      "lastVerifiedAt": "2026-11-27T21:52:26.655Z"
+      "lastVerifiedAt": "2026-11-28T11:32:11.443Z"
     },
     {
       "id": "65e5b46f88fd88f4",
@@ -748,7 +748,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": null,
-      "lastVerifiedAt": "2026-11-27T21:52:26.655Z"
+      "lastVerifiedAt": "2026-11-28T11:32:11.443Z"
     },
     {
       "id": "1e4bec3584d5ccdb",
@@ -782,7 +782,7 @@
       },
       "lastSeenAt": "2026-11-18T11:00:03.353Z",
       "deadlineAt": null,
-      "lastVerifiedAt": "2026-11-27T21:52:26.655Z"
+      "lastVerifiedAt": "2026-11-28T11:32:11.443Z"
     },
     {
       "id": "234616ebcc563687",
@@ -805,7 +805,7 @@
       "source": "Zignuts Technolab Careers",
       "applyUrl": "https://www.zignuts.com/career",
       "snippet": "Live Internship Opportunity listed on Zignuts Technolab careers page for freshers and students.",
-      "postedDate": "2026-11-27",
+      "postedDate": "2026-11-28",
       "deadlineAt": null,
       "discoveredAt": "2026-11-18T10:11:49.108Z",
       "glassdoor": {
@@ -818,8 +818,8 @@
         "reviewCount": null,
         "recommendToFriend": null
       },
-      "lastSeenAt": "2026-11-27T21:52:24.582Z",
-      "lastVerifiedAt": "2026-11-27T21:52:27.161Z",
+      "lastSeenAt": "2026-11-28T11:32:08.241Z",
+      "lastVerifiedAt": "2026-11-28T11:32:12.449Z",
       "employerWebsite": "https://www.zignuts.com/career"
     }
   ]
